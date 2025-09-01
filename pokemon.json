@@ -1,0 +1,2722 @@
+{
+    "pokemon": [
+        {
+        "id": 1,
+        "name": "Bulbasaur",
+        "type": ["Grass", "Poison"],
+        "height": 0.7,
+        "weight": 6.9,
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/bulbasaur/1.jpg",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/bulbasaur/2.png"
+        ],
+        "reason": "Amo tu sonrisa",
+        "explanation": "Like cmon, realmente tengo que explicar esta? No tienes ni idea la cantidad de veces que me metó a mi celular a solo ver fotos de ti sonriendo. Solo verte sonreir me hace a mi sonreir, y eso que vivo con una cara de modo serio 24/7. Y no solo eso, ver el shift de tu cara de pico a una sonrisa, hace tu sonrisa 1000 veces más mejor."
+        },
+        {
+        "id": 2,
+        "name": "Ivysaur",
+        "type": ["Grass", "Poison"],
+        "height": 1.0,
+        "weight": 13.0,
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ivysaur/1.jpg",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ivysaur/2.png"
+        ],
+        "reason": "Amo que sepas cuando estar seria y cuando no",
+        "explanation": "Una cosa de ti que envidio mucho, es tu capacidad to read the room. Sabes muy bien cómo discernir entre cuando tomar las conversaciones para la chacota y cuando tomarlas en serio. Además, me ayudas a comportarme bien en estas situaciones, porque siempre me toma un par de minutos más en darme cuenta que ya debería dejar de decir chistes."
+        },
+        {
+        "id": 3,
+        "name": "Venusaur",
+        "type": ["Grass", "Poison"],
+        "height": 2.0,
+        "weight": 100.0,
+        "abilities": ["Overgrow", "Chlorophyll"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/venusaur/1.jpg",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/venusaur/2.png"
+        ],
+        "reason":"Amo que te sepas palabras exóticas",
+        "explanation": "Resolana?!, Escusado?!, Lavanda?! Nunca en los años que me quedan de vida me habría enterado de que existen estas palabras y mucho menos sus significados. Me gusta mucho poder decir que mi polola es super culta y se sabe todas estas palabras que nadie sabe. Me encanta también que cuando alguien dice alguna y yo no tengo ni la menor idea que signifca, cuando te pregunto me miras un segundo, exhalas un poco, y me la explicas calladita para que nadie escuche, menos esa vez que me exposeaste de no saber que era una lavanda :( ."
+        },
+        {
+        "id": 4,
+        "name": "Charmander",
+        "type": ["Fire"],
+        "height": 0.6,
+        "weight": 8.5,
+        "abilities": ["Blaze", "Solar Power"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/charmander/1.jpg",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/charmander/2.png"
+        ],
+        "reason": "Amo que seas ñurda para la tecnología",
+        "explanation": "Me encanta el contraste que hay entre los dos. Like teni al weon que está estudiando computación y se tiene que saber todas las weas referentes al computador y toda esa mierda y después tienes a la polola que recién descubrió que es una URL. Me encanta que uses tu pc como una mamá, like aún no entiendo como posicionas tu mano izquierda cuando juegas miencraft, lo encuentro sumamente incómodo but you make it work. Algún día lograré que seas una experta, pero se que me queda muuuucho para eso."
+        },
+        {
+        "id": 5,
+        "name": "Charmeleon",
+        "type": ["Fire"],
+        "height": 1.1,
+        "weight": 19.0,
+        "abilities": ["Blaze", "Solar Power"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/charmeleon/1.jpg",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/charmeleon/2.png"
+        ],
+        "reason": "Amo cuando hacemos nada juntos",
+        "explanation": "A mi me pasa con muy poca gente que puedo estar sentado/acostado en silencio haciendo nada y no sentirme incómodo. Y justo eres tú una de esas personas. Podemos estar haciendo cosas completamente distintas, pero estamos juntos y en ningún momento me siento raro o que la puedes estar pasando mal. Esa como tranquilidad de poder pasar esos ratos contigo la amo, porque además con las mil y un cosas que tengo entre la u, el volley y otras weas, poder tener ese rato de nada es necesario."
+        },
+        {
+        "id": 6,
+        "name": "Charizard",
+        "type": ["Fire", "Flying"],
+        "height": 1.7,
+        "weight": 90.5,
+        "abilities": ["Blaze", "Solar Power"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/charizard/1.jpg",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/charizard/2.jpg"
+        ],
+        "reason": "Amo cuando yapeas",
+        "explanation": "Uno de mis panormaas favoritos es escucharte yapear. Yo que no soy una persona muy wena para hablar de mi mismo o de cosas que se en general, poder escucharte a ti hablar sin ningún freno puesto es increible. Ya sea del tea de tu universidad, el drama de tu grupo de kpop, o de que comiste ayer, cualquier de esos temas me encanta escucharlo. La mejor parte de todo es cuando te desvías, porque en ese punto ya es imposible saber hacia donde se va a dirigir la situación, haciéndolo aún más entretendido."
+        },
+        {
+        "id": 7,
+        "name": "Squirtle",
+        "type": ["Water"],
+        "height": 0.5,
+        "weight": 9.0,
+        "abilities": ["Torrent", "Rain Dish"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/squirtle/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/squirtle/2.png"
+        ],
+        "reason": "Amo que te rías por pelotudeces",
+        "explanation": "Yo soy un pelotudo, y tu te ries por pelotudeces, que mejor match. Te he visto reirte por cosas que no tienen niuna pizca de gracia y no se como explicarlo. Pero verte reirte por cosas tan simples, me hace a mi reir, si al final el que sale ganando soy yo."
+        },
+        {
+        "id": 8,
+        "name": "Wartortle",
+        "type": ["Water"],
+        "height": 1.0,
+        "weight": 22.5,
+        "abilities": ["Torrent", "Rain Dish"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/wartortle/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/wartortle/2.png"
+        ],
+        "reason": "Amo lo inteligente que eres",
+        "explanation": "Yo creo que de las cosa que más presumo de ti es lo inteligente que eres. Like yeah, mi polola estudia psicología y es fucking seca. O sí, mi polola sabe harto de ese tema y me lo explicó. Tal vez tú no te lo creas, pero yo te encuentro brillante. Sabes tanto de tantas cosas de las que yo no tengo idea, sabes como explicarlas y tienes tus opiniones al respecto, todo eso es algo que admiro muchísmo de ti."
+        },
+        {
+        "id": 9,
+        "name": "Blastoise",
+        "type": ["Water"],
+        "height": 1.6,
+        "weight": 85.5,
+        "abilities": ["Torrent", "Rain Dish"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/blastoise/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/blastoise/2.png"
+        ],
+        "reason": "Amo que te pongas nerviosa por cosas simples",
+        "explanation": "Aquí, cuando me refiero a cosas simples, me refiero a cosas como you know, físicas entre ambos. Like, por mucho tiempo cuando yo iniciaba alguna forma de contacto físico, te daba algún beso, o te hago cariño, te pones suepr nerviosa. Y verte muy flusterred, me encanta. Encuentro que te ves tan cute cuando te pones roja y no sabes como reaccionar o que hacer que me dan aún más ganas de seguir haciéndolo. Obvio que i will always keep respecting your limits, pero de vez en cuando es entretenido ser yo el que te esta teasing."
+        },
+        {
+        "id": 10,
+        "name": "Caterpie",
+        "type": ["Bug"],
+        "height": 0.3,
+        "weight": 2.9,
+        "abilities": ["Shield Dust", "Run Away"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/caterpie/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/caterpie/2.png"
+        ],
+        "reason": "Amo que te sepas tantos bailes de kpop",
+        "explanation": "Como chucha te sabes tantos??? Es impresionante además, sale una canción y a la semana estoy en tu casa viéndote hacer la coreografía. Si fuese Just-Dance, tendría puntaje perfecto para cada uno de los bailes que haces, siempre y cuando no se te salga la rodilla como a la coni."
+        },
+        {
+        "id": 11,
+        "name": "Metapod",
+        "type": ["Bug"],
+        "height": 0.7,
+        "weight": 9.9,
+        "abilities": ["Shed Skin"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/metapod/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/metapod/2.png"
+        ],
+        "reason": "Amo tu voz",
+        "explanation": "Yo no logro entender como a ti no te gusta tu voz. No solo escucharte hablar ya es una experiencia por si sola, pero cantar, fua. Cuando mandas los videos de tu en el coro, yo quedo impactadísimo. Es impresionante como llegas a las notas y lo suave y bonita que te escuchas mientras cantas. Hasta en el auto, cantando cualquier canción lo haces como tan suavecito que está para grabarlo y tenerlo en mi spotify como un cover."
+        },
+        {
+        "id": 12,
+        "name": "Butterfree",
+        "type": ["Bug", "Flying"],
+        "height": 1.1,
+        "weight": 32.0,
+        "abilities": ["Compound Eyes", "Tinted Lens"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/butterfree/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/butterfree/2.png"
+        ],
+        "reason": "Amo tu cara de asco",
+        "explanation": "Esa cara que pones cuando hago alguna estupidez o digo alguna wea, la amo. No se que es, si es el ragebaitearte o la combianción entre el side eye y la levantada de ceja pero me encanta. Es aún mejor cuando digo algo para que hagas esa cara y la haces, just for some unknown reason makes me a little bit happy."
+        },
+        {
+        "id": 13,
+        "name": "Weedle",
+        "type": ["Bug", "Poison"],
+        "height": 0.3,
+        "weight": 3.2,
+        "abilities": ["Shield Dust", "Run Away"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/weedle/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/weedle/2.png"
+        ],
+        "reason": "Amo tu cara de pico",
+        "explanation": "Esta es distinto a la cara de asco, porque esta viene por default. A mi me gusta porque representa en cierta medida tu forma de ser. Como, no estoy aquí para weas, no me vengan a wear. Eso yo lo respeto mucho, plus igual es cute tu cara de pico, especialmente cuando la estás forzando y estoy intentando de quitartela. No lo logro en la gran mayoria de los casos, pero verte luchar por mantenerte seria me da mucha risa."
+        },
+        {
+        "id": 14,
+        "name": "Kakuna",
+        "type": ["Bug", "Poison"],
+        "height": 0.6,
+        "weight": 10.0,
+        "abilities": ["Shed Skin"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kakuna/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kakuna/2.png"
+        ],
+        "reason":"Amo como eres con tus primos",
+        "explanation": "Una cosa que realmente envidio de ti, es tu relación con tus primos. En mi familia, yo siempre estuve chantado en la mitad, demasiado chico para hablar con mis primas grandes, y demasiado grande para jugar con mis primos chicos. En tu familia, eso vale pico, todos hablando con todos, se ríen con todos. La juntas familiares siempre son muy entretenidas, todos weándose entre si, especialmente entre el kito y tú. Es muy bonito lo que tienes con tus primos, y es cada vez más ejemplo del tipo de persona que eres."
+        },
+        {
+        "id": 15,
+        "name": "Beedrill",
+        "type": ["Bug", "Poison"],
+        "height": 1.0,
+        "weight": 29.5,
+        "abilities": ["Swarm", "Sniper"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/beedrill/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/beedrill/2.png"
+        ],
+        "reason": "Amo como eres con tus papas",
+        "explanation": "Es muy admirable como eres tanto tú y la coni con tus papas. Por mucho tiempo has tomado un rol que tal vez a ti no te corresponde, pero que lo haces con un cariño y amor gigante. La preocupación que tienes por tu papa, la paciencia con la que lo tratas a pesar de que cada día está un poquito más ciego, es de las cosas que más amó de ti. Sabes también marcar tus límites con ellos, pero siempre lo haces con respeto y con mucho cuidado. Tampoco tienes miedo de priorizarlos a ellos sobre ti, y dejar de lado algunas cosas para enfocarte en que tus papas estén bien. No se si te lo dicen mucho (espero que si) pero eres una tremenda hija, y me hace muy feliz poder decir que esa persona es mi polola."
+        },
+        {
+        "id": 16,
+        "name": "Pidgey",
+        "type": ["Normal", "Flying"],
+        "height": 0.3,
+        "weight": 1.8,
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pidgey/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pidgey/2.png"
+        ],
+        "reason": "Amo que te preocupes por mis lesiones",
+        "explanation": "Antes que todo, yes i know, debería hacerte mucho más caso y te pido perdón. Ya ahora si, me hace sentir muy querido por ti el que te preocupes mucho por mi cuando viene a mis lesiones. Donde mi papá, rara vez está él para ver como estoy, si ando con alguna molestia o algo así, entonces tenerte a ti, que siempre me hinchas e hinchas para asegurarte de que este bien, es un respaldo muy necesario. Aún me acuerdo esa semana que jugue futbol en el colegio, y me queme como la mitad del muslo con el pasto. Durante toda la semana que tuve eso me decías, manda foto, como estás?, te compraste el tape? y mucho más. Entonces tener a alguien tan preocupado por ti me hace sentir una persona muy muy afortunada. "
+        },
+        {
+        "id": 17,
+        "name": "Pidgeotto",
+        "type": ["Normal", "Flying"],
+        "height": 1.1,
+        "weight": 30.0,
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pidgeotto/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pidgeotto/2.png"   
+    ],
+    "reason":"Amo que me escuches hablar de fútbol",
+    "explanation": "Como bien sabes, yo vivo fútbol. A pesar de eso, no hablo así mucho del tema, onda in detail. So el hecho de que me banques el fútbol, y no solo soportes que haga un ppt entero, sino que me hagas hasta preguntas, me hace muy feliz. Hasta me regalaste una almohada de Bukayo Saka, mejor regalo de la puta historia"
+        },
+        {
+        "id": 18,
+        "name": "Pidgeot",
+        "type": ["Normal", "Flying"],
+        "height": 1.5,
+        "weight": 39.5,
+        "abilities": ["Keen Eye", "Tangled Feet"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pidgeot/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pidgeot/2.png"
+        ],
+        "reason":"Amo que soportes ver conmigo los partidos del Arsenal",
+        "explanation": "Siguiendo la misma idea del pasado, ver partidos el Arsenal con gente es algo que me carga hacer. Onda, si tenog amigos en la U que están conmigo mientras veo un partido del Arsenal, la pasó horrible. En cambio contigo, otra historia. Tú ya sabes lo que me apasiona, so contigo estoy muchísimo más relajado viéndolos y lo puedo disfrutar como yo quiero. Además, es un win win situation. Si ganamos, te puedo abrazar y dar besos porque estoy feliz, y si perdemos tengo alguien que me de consuelo jsjsjsjsj."
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "type": ["Normal"],
+        "height": 0.3,
+        "weight": 3.5,
+        "abilities": ["Run Away", "Guts"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rattata/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rattata/2.png"
+        ],
+        "reason": "Amo que seas rata",
+        "explanation": "Like top 3 mejores evoluciones que has tenido, es que te hayas obsesionado con el minecraft y con el pokemon. Que seas ahora una rata como yo, hace que te ame 1000 veces más. Although ya no juguemos juntos y que ya tengas tus mundos con los de kine y yo esté en otras cosas, poder conversar contigo de cosas que a mi realmente me marcaron mi infancia, me hace muy muy feliz. En mi vida, he tenido con suerte una o dos situaciones donde he podido realmente hablar de minecraft o pokemon sin sentirme un raro de mierda, pero ahora que te tengo a ti, lo puedo hacer cuando quiera, and thats fucking awesome."
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "type": ["Normal"],
+        "height": 0.7,
+        "weight": 18.5,
+        "abilities": ["Run Away", "Guts"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/raticate/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/raticate/2.png"
+        ],
+        "reason": "Amo tus cachetes (los de la cara)",
+        "explanation" :"Una pregunta que me he hecho un par de veces en la micro, es cual parte de tu cuerpo me gusta más. Now obviously tienes a los típicos, pero si tuviese que elegir uno, serían tus cachete. No se que clase de fetiche será o que mierda generó esto, pero es que me encanta agarrarte la cara and just squish your cheeks and play with them (i know, sounds crazy). Pero es que son tan perfectos que no puedo evitar hacerlo, pero yeah, sin juzgar."
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "type": ["Normal", "Flying"],
+        "height": 0.3,
+        "weight": 2.0,
+        "abilities": ["Keen Eye", "Sniper"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/spearow/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/spearow/2.png"
+        ],
+        "reason": "Amo tu sentido de humor",
+        "explanation": "Si te soy super honesto, no tengo ni pija idea como definir o explicar tu sentido de humor. Es una mezcla entre un humor gringo que es parecido al mío y un humor a nada. Like te he visto reirte por unas weas que no logro comprender, pero por alguna razón parecen ser las cosas más graciosas que existen. Igual, love it, keep laughing."
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "type": ["Normal", "Flying"],
+        "height": 1.2,
+        "weight": 38.0,
+        "abilities": ["Keen Eye", "Sniper"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/fearow/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/fearow/2.png"
+        ],
+        "reason": "Amo que te tenga que pelear cada vez que te invito a comer",
+        "explanation": "Que quede aquí la constancia de que si te invito a comer, no vas a pagar niun peso de la comida. Igual apreció siempre mucho que te ofrezcas a pagar tu parte y todo, porque me haces entender que no estás para que te pagen la comida no más, sino que en verdad si querías salir conmigo a comer, making me really happy. Igual, 0 chance de que pagues, ya tengo la estrategia armada y me ha funcionado a la perfección. Así que sigue aceptando que te quieran no más, no refunds."
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "type": ["Poison"],
+        "height": 2.0,
+        "weight": 6.9,
+        "abilities": ["Intimidate", "Shed Skin"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/23.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ekans/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ekans/2.png"
+        ],
+        "reason": "Amo tus reacciones cuando abres regalos",
+        "explanation": "Es que te ves tan pero tan feliz cuando abres un regalo que te gusta. Lo abres ansiosamente, te das cuenta lo que es, te pegas un pequeño uuuuuyyy como agudo, miras al que te regaló y empiezas a dar gracias infinitamente. Después te paseas por todos lados mostrándole a la gente lo que te regalaron toda tierna. Me ha tocado un par de veces ser el que regala, so la sensación de verte tan feliz es muy gratificante. Y cuando el regalo no es mío también, porque te ves tan pero tan feliz que terminó feliz yo también."
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "type": ["Poison"],
+        "height": 3.5,
+        "weight": 65.0,
+        "abilities": ["Intimidate", "Shed Skin"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/arbok/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/arbok/2.png"
+        ],
+        "reason": "Amo que seas mala para los videojuegos",
+        "explanation": "Yo creo que hay pocas cosas que me dan tant risa y me causan tanta gracia que verte intentar jugar videojuegos. Ya sea el minecraft, los juegos de discord o el REPO, hay algo entretenido de ver a alguien luchar tanto por jugar bien. Yo se que en algún punto ese fui yo, entonces verte a ti pasar por lo mismo también lo hace extra cute."
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "type": ["Electric"],
+        "height": 0.4,
+        "weight": 6.0,
+        "abilities": ["Static", "Lightning Rod"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pikachu/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pikachu/2.png"
+        ],
+        "reason":"Amo tus valores",
+        "explanation": "Otra de las cosas que para mi son super importantes en mi pareja, son sus valores. Los tuyos, son la representación del tipo de persona con la que a mi me gustaría estar. Siempre eres consciente de lo que haces, saber ser empática y respestuosa, the whole package. Eres una persona que admiro mucho por como te presentas a las personas y como las tratas, encuentro que eres una increible persona. Tengo tremenda suerte de tenerte como polola, porque se que sea lo que sea, me vas a recordar de seguir mis valores y motivarme a cada día a ser mejor persona."
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "type": ["Electric"],
+        "height": 0.8,
+        "weight": 30.0,
+        "abilities": ["Static", "Lightning Rod"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/26.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/raichu/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/raichu/2.png"
+        ],
+        "reason": "Amo tu sentido de justicia",
+        "explanation": "Esto es algo en lo que los dos diferimos mucho. Con todas las injusticias y cosas que pasan en el mundo, como nos afecta a cada uno es muy distinta. Por mi parte, no se si lo llamaría indiferencia, pero ciertamente no me afecta tanto como a ti te afecta. Por ejemplo con lo de Diddy, o otras atrocidades que ocurren, yo si te veo preocupada, enojada de formas que a mi me cuesta que me nazca. Eso lo respeto muchísimo, porque enojarse por las injusticias de otras personas es algo super comendable y algo que no es fácil hacer. "
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "type": ["Ground"],
+        "height": 0.6,
+        "weight": 12.0,
+        "abilities": ["Sand Veil", "Sand Rush"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/sandshrew/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/sandshrew/2.png"
+        ],
+        "reason": "Amo que no te dejes influenciar por nadie",
+        "explanation": "Tú siempre has sido una persona que no se deja llevar por la corriente y te mantienes firme en lo que crees. Si tú no quieres hacer algo, no lo vas a hacer, si no estás de acuerdo con algo, lo vas a decir. Admiro muchísimo eso (siento que lo he dicho mucho, pero es verdad pls creeme), porque siempre se que si tu opinas sobre algo o lo haces, es 100% decisión tuya y sabes lo que estás haciendo."
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "type": ["Ground"],
+        "height": 1.0,
+        "weight": 29.5,
+        "abilities": ["Sand Veil", "Sand Rush"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/sandslash/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/sandslash/2.png"
+        ],
+       "reason": "Amo que odies la playa",
+       "explanation": "Tal vez no lo sepas, pero realmente yo soy 0 fan de la playa. No le encuentro ningún brillo a meterme al agua heladísima y llenarme los boxers y pelo de arena. Sé que tú razón por no querer ir a la playa es un poco distinta a la mía, pero al final del día, llevan a que en un futuro, ninguna faking vacación sea ir a la playa a hacer nada."
+    },
+    {
+        "id": 29,
+        "name": "Nidoran♀",
+        "type": ["Poison"],
+        "height": 0.4,
+        "weight": 7.0,
+        "abilities": ["Poison Point", "Rivalry"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoranf/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoranf/2.png"
+        ],
+        "reason": "Amo tu nariz",
+        "explanation": "No se como no te gusta tu nariz, honestly. No se como explicarlo sin quedar como un weon raro, pero en verdad me encanta tu nariz. Like it suites you very well y te hace muchísimo más bonita"
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "type": ["Poison"],
+        "height": 0.8,
+        "weight": 20.0,
+        "abilities": ["Poison Point", "Rivalry"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidorina/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidorina/2.png"
+        ],
+        "reason": "Amo cuando usas lentes",
+        "explanation": "Otra cosa que no se porque no te gusta en ti. Siempre diciendo, voy a arruinar el outfit cuando te pones los lentes y es como noooooooooooo. I am down fucking bad por mujeres con lentes, y cuando tu los usas, god damn. Amo cuando tienes puesto tus lentes, te ves tan como intelectual y cute y hot y si, porfavor no te operes los ojos necesito seguir viéndote usar tus lentes."
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "type": ["Poison", "Ground"],
+        "height": 1.3,
+        "weight": 60.0,
+        "abilities": ["Poison Point", "Rivalry"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoqueen/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoqueen/2.png"
+        ],
+        "reason": "Amo saber que puedo apoyarme en ti",
+        "explanation": "Creo que no hay nadie que sabe tan bien como tú, lo difícil que es para mi apoyarme en la gente. Desde siempre, me han dicho aah eres un hombre, cuando mostraba emociones era el fin del mundo y que iba a dejar la cagada. Tuve que aprender a lidiar con las weas solo, y francamente, es sumamente agotador. Pero después apareciste tú, y aún no tengo ni idea como lo hiciste, pero muy muy lentamente lograste que te contara mis problemas. En ti encontré una persona donde le podía contar que mierda me pasaba, sabiendo que no quedaba como un weon débil, o con el miedo de que si te contaba, pensarías que soy mala persona. Aún me es difícil hablar de las cosas que me pasan siempre, pero me has demostrado cada vez, y cada día de que en ti si puedo confiar. No creo que entiendes la influencia que has tenido en mi cuando viene a esto, so really really gracias por siempre escucharme cuando más lo necesito."
+    },
+    {
+        "id": 32,
+        "name": "Nidoran♂",
+        "type": ["Poison"],
+        "height": 0.5,
+        "weight": 9.0,
+        "abilities": ["Poison Point", "Rivalry"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoranm/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoranm/2.png"
+        ],
+        "reason": "Amo tus b**bs y b*tt",
+        "explanation": "No further explanation needed"
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "type": ["Poison"],
+        "height": 0.9,
+        "weight": 19.5,
+        "abilities": ["Poison Point", "Rivalry"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidorino/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidorino/2.png"
+        ],
+        "reason": "Amo como eres con mi familia",
+        "explanation" : "Yo se que con mi familia, no han habido tantas ocasiones durante estos 4 años como para que estén juntos, mucho del tiempo que pasamos juntos es en tu casa al final del día. Eso si, las veces que si, siempre hablas con mi familia con mucho respeto, como realmente con mucho cariño y me hace sentir muy tranquilo que se lleven tan bien. Ya sea agarrando pal webeo al minismm, o hablando con mi mamá, te has ganado un lugar en el corazón de mi fam, so no podría estar más agradecido de que seas como eres con ellos."
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "type": ["Poison", "Ground"],
+        "height": 1.4,
+        "weight": 62.0,
+        "abilities": ["Poison Point", "Rivalry"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/34.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoking/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/nidoking/2.png"
+        ],
+        "reason": "Amo que no te guste que te regalen flores",
+        "explanation": "No entiendes el alivio que me genera no tener que regalarte flores. Soy completamente nulo cuando viene a flores, asíque regalarte flores sería un dolor de cabeza tremendo. Poder regalarte otras cosas y saber que esas te van a hacer feliz es muchísimo mejor que regalarte flores. Eso si, algún día te va a llegar una flor de lego, maybe not today, maybe not tomorrow, but one day it will happen."
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "type": ["Fairy"],
+        "height": 0.6,
+        "weight": 7.5,
+        "abilities": ["Cute Charm", "Magic Guard"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/clefairy/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/clefairy/2.png"
+        ],
+        "reason": "Amo que te emociones viendo Spirit",
+        "explanation": "Me encanta que haya una parte de ti, que desde chica se emocione viendo Spirit. Es una película tan simple, entones que te haga llorar cada vez que la ves lo hace mucho más bonito. La primera vez que la vi contigo se que la tome un poco para la chacota, pero mirando para atrás, se nota que es una película importante para ti y encuentro muy cute tus reacciones."
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "type": ["Fairy"],
+        "height": 1.3,
+        "weight": 40.0,
+        "abilities": ["Cute Charm", "Magic Guard"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/clefable/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/clefable/2.png"
+        ],
+        "reason": "Amo que te gusten las aceitunas",
+        "explanation": "How I Met Your Mother Primer episodio, ahí está la explicación."
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "type": ["Fire"],
+        "height": 0.6,
+        "weight": 9.9,
+        "abilities": ["Flash Fire", "Drought"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/vulpix/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/vulpix/2.png"
+        ],
+        "reason": "Amo que no te puedas tragar las pastillas",
+        "explanation": "Lo encuentro impresionante. He visto las pastillas en tu cajita de drogas, y pensar que esas cagadas chicas no te las puede me da risa. Like cmon, además como no te gusta el agua te la tienes que bajar con otras cosas (hasta un fuking pan sjsjjsjs)."
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "type": ["Fire"],
+        "height": 1.1,
+        "weight": 19.9,
+        "abilities": ["Flash Fire", "Drought"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ninetales/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ninetales/2.png"
+        ],
+        "reason": "Amo que seas una vieja sapa",
+        "explanation": "Que manera de gustarte el tea mujer. Quieres saberte todos los detalles, cada persona involucrada y obvio que no falta tu opinión. Yo creo que lo mejor de esto, es cuando yo tengo algún tea, toy a cada rato pensando uuu como va a reaccionar o uuuu me pregunto que va a opinar la Alex. Me has vuelto un viejo sapo a mi, donde mi única intención es compartirlos contigo para saber tu reacción."
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "type": ["Normal", "Fairy"],
+        "height": 0.5,
+        "weight": 5.5,
+        "abilities": ["Cute Charm", "Competitive"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/jigglypuff/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/jigglypuff/2.png"
+        ],
+        "reason": "Amo tu colección de calcetines con diseño",
+        "explanation": "Puta que tienes caleta de calcetines. Se que he aportado en gran medida a la colección, pero es que no puedo evitarlo. Además, cada vez que te veo usándolos me hace un poquito más feliz. También ver a la coni usarlos me da mucha risa."
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "type": ["Normal", "Fairy"],
+        "height": 1.0,
+        "weight": 12.0,
+        "abilities": ["Cute Charm", "Competitive"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/wigglytuff/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/wigglytuff/2.png"
+        ],
+        "reason": "Amo que te veas videos de youtube largísimos como si nada",
+        "explanation": "Como chucha te viste todo dedsafío y después decías que era nada. Eran fucking 8 horas por episodio. Its actually impressive. Tienes que sumarle a esos los videos de RottenMango, realmente no se de donde sacas tanto tiempo para verlos."
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "type": ["Poison", "Flying"],
+        "height": 0.8,
+        "weight": 7.5,
+        "abilities": ["Inner Focus", "Infiltrator"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/41.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/zubat/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/zubat/2.png"
+        ],
+        "reason": "Amo que te guste el chocolate",
+        "explanation": "Que manera de facilitarme la vida el hecho de que te guste tanto el chocolate. Si tuviese que cada vez que te quisiera ver algo, tener que cranearmela para saber que dulce comprarte, sería un infierno. Pero por suerte mía, te encanta el chocoloate y te seguirá llegando hasta que te aburras de mi, porque si de algo estoy seguro, es que del chocolate no te aburrirás nunca."
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "type": ["Poison", "Flying"],
+        "height": 1.6,
+        "weight": 55.0,
+        "abilities": ["Inner Focus", "Infiltrator"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/42.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/golbat/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/golbat/2.png"
+        ],
+        "reason": "Amo debatir contigo",
+        "explanation": "Yo creo que hay pocas cosas más entretenidas que ponerme a debatir contigo acerca de temas sumamente controversiales. Eres una persona que siempre tiene sus puntos de vistas y opiniones muy claras, entonces es bacan poder sacarle el jugo a eso cuando sale algún tema interesante. Además, yo que para algunas weas se menos que guagua recien nacida, hablar respecto a esas weas sabiendo que después de hablar contigo voy a salir un poco menos aweonado, es la zorra."
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "type": ["Grass", "Poison"],
+        "height": 0.5,
+        "weight": 5.4,
+        "abilities": ["Chlorophyll", "Run Away"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/43.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/oddish/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/oddish/2.png"
+        ],
+        "reason": "Amo lo mucho que te gustan los pepinillos",
+        "explanation": "Hay cosas chistosas y está verte comerte unos pepinillos. Nunca en mi vida he visto a alguien comerse los pepinillos como te los comes tú, its actually impressive. Además, me siento muy bacan cuando ando por el super con un jarro de pepinillos, chocolate y un par de calcetines y la gente me mira como wtf que le pasa a este weon, y yo sé que esto es lo que quieres."
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "type": ["Grass", "Poison"],
+        "height": 0.8,
+        "weight": 8.6,
+        "abilities": ["Chlorophyll", "Run Away"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/44.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gloom/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gloom/2.png"
+        ],
+        "reason": "Amo tu relación con tus amigas",
+        "explanation": "Varias veces durante nuestra relación, has dicho que eres muy mala amiga y no logro entender por qué. I mean, como eres con la Andre, la Joche, la Trini y la Fran, es realmente para envidiarlo. Son capaces de hablar weas, criticarse, quererse, estar ahí para cada uno y todas al mismo tiempo. Se nota que las quieres mucho y que te esmeras por ser una muy buena amiga, lo que te hace diez mil veces más atractiva. Y a todo esto hay que sumarle la envidia que siento cuando la Joche y tú andan modo pareja entre ustedes xd."
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "type": ["Grass", "Poison"],
+        "height": 1.2,
+        "weight": 18.6,
+        "abilities": ["Chlorophyll", "Run Away"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/45.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/vileplume/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/vileplume/2.png"
+        ],
+        "reason": "Amo los stikers que pones en tus apuntes",
+        "explanation": "La primera vez que me mostraste tus apuntes, encontré genial que tuvieras stickers para cada página. Era como página de depresión, *inserte persona echada en depresión* o página de freud *inserte meme de freud*. Me da tanta risa y además de que de alguna forma u otra debe servir para que te recuerdes los apuntes que tomaste, so yeah, really cool."
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "type": ["Bug", "Grass"],
+        "height": 0.3,
+        "weight": 5.4,
+        "abilities": ["Effect Spore", "Dry Skin"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/46.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/paras/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/paras/2.png"
+        ],
+        "reason": "Amo tu letra de doctor",
+        "explanation": "No tenía ni idea que sabías escribir en hebreo, impresionante. Nah pero en verdad, me sa risa que con lo bonito que son tus apuntes o lo ordenada que eres para muchas cosas, tu letra sea tan ilegible y tan opuesta a como eres."
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "type": ["Bug", "Grass"],
+        "height": 1.0,
+        "weight": 29.5,
+        "abilities": ["Effect Spore", "Dry Skin"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/47.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/parasect/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/parasect/2.png"
+        ],
+        "reason": "Amo tu memoria de Dory",
+        "explanation": "Esta es como un doble edged sword. Por un lado, claro que te olvides de las cosas no es particularmente algo útil, pero eso solo me da otra razón para poder escribirte/hablarte para acordarte las cosas. Además, como no te acuerdas de las cosas, logro esuchar tus historias como 5 veces mínimo y lo mejor de eso, es cada vez te vas por una rama distinta. Es como que te olvidas de que me la contaste, pero aún así la cuentas de una forma distinta. Además, igual me gusta poder acordarte de las cosas, porque aunque se te pasen a ti, yo me voy a asegurar de que no se te olviden."
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "type": ["Bug", "Poison"],
+        "height": 1.0,
+        "weight": 30.0,
+        "abilities": ["Compound Eyes", "Tinted Lens"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/48.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/venonat/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/venonat/2.png"
+        ],
+        "reason": "Amo tus anécdotas weonas",
+        "explanation": "Es como abrir un kinder sorpresa, no se con que chucha me voy a encontrar. Hay algunas que pienso, ya bueno igual me podría haber pasado a mi, y otras quedo en shock. Por ejemplo, la vez que fuiste a echar bencina sin tarjeta y tuviste que llamar a la joche toda estresada. En mi mente yo estaba como pero como te pasa eso. O como cuando se te quedó el carnet en tunca, like de las pocas cosas que uno no se le pueden quedar, se te quedo (a mi se me quedaron unos boxers, so cant judge too much). En fin, entre lo preocupado que me pone y la confusión que me genera, tus situaciones me dan mucha risa y logran sacarme al menos una sonrisa."
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "type": ["Bug", "Poison"],
+        "height": 1.5,
+        "weight": 12.5,
+        "abilities": ["Shield Dust", "Tinted Lens"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/49.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/venomoth/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/venomoth/2.png"
+        ],
+        "reason": "Amo que veas kdramas super cursis",
+        "explanation": "Es tan pero tan confuso que te lo veas. Onda en la serie el wn le canta o le dice algo super cringy y tu está como awwww qu tierno. AAAA pero si lo hago yo, totalemten otra historia. Igual me da mucha risa el choque entre situaciones, y que chilles como cabra chica cuando se toman de las manos después de 12 capítulos de una fakin hora cada uno"
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "type": ["Ground"],
+        "height": 0.2,
+        "weight": 0.8,
+        "abilities": ["Sand Veil", "Arena Trap"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/50.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/diglett/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/diglett/2.png"
+        ],
+        "reason": "Amo como eres con la Rosi",
+        "explanation": "Tu relación con la Rosi es super bonita. Hasta que se tratan como weonas, comen juntas, siempre estás atenta a ella, te ries, lloras, todas las anteriores. Todo esto es un muy buen ejemplo de como eres como persona, aunque te hagas pasar por esta persona fría y reservada, siempre tratas con mucho cuidado y cariño a la gente que quieres."
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "type": ["Ground"],
+        "height": 0.7,
+        "weight": 33.3,
+        "abilities": ["Sand Veil", "Arena Trap"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/51.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dugtrio/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dugtrio/2.png"
+        ],
+        "reason": "Amo como reaccionas a mis pickup lines",
+        "explanation": "Estoy 99% seguro, que cada vez que he usado algún puck up line, recibo de vuelta una mirada de que mierda te pasa. No se porque, pero esa reacción me encanta. Tal vez sea el hecho de que te haga rabiar un poco cuando las hago, pero siempre que la haces, se que la pickup line que use fue espectacular. El día que no reciba esa mirada, es el día que me preocuparé en serio."   
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "type": ["Normal"],
+        "height": 0.4,
+        "weight": 4.2,
+        "abilities": ["Pickup", "Technician"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/52.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/meowth/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/meowth/2.png"
+        ],
+        "reason":"Amo tu sarcasmo",
+        "explanation": "Just amazing. Poder hablar contigo y que ya entiendas mi sarcasmo es una cosa, pero que lo uses tu también, me encanta. Además, es tan bacan porque como tu eres super directa, logras esconder el sarcasmo de mucha mejor forma, al punto de que presenciarlo es una arte."
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "type": ["Normal"],
+        "height": 1.0,
+        "weight": 32.0,
+        "abilities": ["Limber", "Technician"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/53.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/persian/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/persian/2.png"
+        ],
+        "reason": "Amo que hagas un esfurzo por aprender cosas del Arsenal",
+        "explanation": "Yo no suelo ser una persona que le gusta hablar mucho de mi mismo, so saber que al menos tú si te interesas por aprender aunque sea lo más mínimo del Arsenal, me encanta. Hasta me aguantaste una presentación de ppt, osea creo que nadie en su sano juicio haría eso. Aprovecho de avisarte que ya es hora de actualizar la lista que tienes en tu celular de mi top 10, porque en 2 años ha cambiado mucho."
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "type": ["Water"],
+        "height": 0.8,
+        "weight": 19.6,
+        "abilities": ["Damp", "Cloud Nine"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/54.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/psyduck/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/psyduck/2.png"
+        ],
+        "reason": "Amo que uses como 5 capas cuando hace frío",
+        "explanation": "Siento que tenemos termostatos muy, muy distintos. Si hace frío, tu andas con polera térmica, polera, polerón, parca y no se que más se me estará olvidando. Yo por otro lado, con un humilde polerón y estamos listos. Encuentro re tierna como te ves casi que ahogándote en ropa cuando hace frío, y aún así vas a estar buscando alguna forma más para que no te de más frío."   
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "type": ["Water"],
+        "height": 1.7,
+        "weight": 76.6,
+        "abilities": ["Damp", "Cloud Nine"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/55.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/golduck/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/golduck/2.png"
+        ],
+        "reason": "Amo como te vistes",
+        "explanation": "Increible tu estilo. Ya sea un vestido, jeans, buzo, polerón, lo que fakin sea, siempre logras que lo que pongas quede increible. De arriba para abajo, las cosas combinan y te quedan perfecto. 10/10"
+    },
+    {   
+        "id": 56,
+        "name": "Mankey",
+        "type": ["Fighting"],
+        "height": 0.5,
+        "weight": 28.0,
+        "abilities": ["Vital Spirit", "Anger Point"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/56.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mankey/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mankey/2.png"
+        ],
+        "reason": "Amo que tu pieza sea un desorden ordenado",
+        "explanation": "Que manera de tener cosas dios mio. No se como logras encontrar más cosas y además encontrar lugares donde las puedes poner. Tu pieza literal tiene de todo, de todas las cosas que te han gustado en algún momento. Es realmente bacan tu pieza, y si tuvisese tantas cosas como tú, no se si podría organizarla tan bien como lo haces tú. Eso si, todo esto no toma en consideración el desastre que debe haber adentro de tu closet, only god knows whats in there."
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "type": ["Fighting"],
+        "height": 1.0,
+        "weight": 32.0,
+        "abilities": ["Vital Spirit", "Anger Point"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/57.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/primeape/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/primeape/2.png"
+        ],
+        "reason": "Amo como hueles",
+        "explanation": "Hear me out, porfa. Debe haber alguna explicación científica o hormonal o no se chucha para esto, pero realmente me encanta como hueles. No hay forma de escribir esta parte sin que quede como un raro, pero eso ya lo sabes, so cagaste. Es hasta adictivo, pero no le digas eso a nadie porfavor."
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "type": ["Fire"],
+        "height": 0.7,
+        "weight": 19.0,
+        "abilities": ["Intimidate", "Flash Fire"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/58.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/growlithe/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/growlithe/2.png"
+        ],
+        "reason": "Amo como eres con tus mascotas",
+        "explanation": "I mean, tu eres prácticamente la definición de mamá leona cuando viene a tus guaguas. Ya sea un caballo, perro o gato, me encanta el cariño que les das y  el tiempo que le dedicas. Pero lo mejor de todo, es que te ves tan pero tan feliz cuando estás con ellos, que no puedo evitar tar feliz también (exceptuando cuando alguno de los perros agarró un ratón xd)."
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "type": ["Fire"],
+        "height": 1.9,
+        "weight": 155.0,
+        "abilities": ["Intimidate", "Flash Fire"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/59.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/arcanine/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/arcanine/2.png"
+        ],
+        "reason": "Amo que seas furra",
+        "explanation": "Cualquier razón o caso con la que te pueda agarrar pal webeo, sin que te enojes, me encanta. Like, te entiendo el zorro de zootopia, pero tengo que marcar el límite con el caballo de spirit jsjsjsjs. No pero más allá de eso, me encanta que te pueda gustar algo y que te valga pico lo que el resto piense. Que quede claro que yo ame que seas furra no implica que sea furro, no necesito que me sigas incrimando más de lo que ya lo has hecho :)"
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "type": ["Water"],
+        "height": 0.6,
+        "weight": 12.4,
+        "abilities": ["Water Absorb", "Swift Swim"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/60.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/poliwag/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/poliwag/2.png"
+        ],
+        "reason": "Amo cuando tomas siestas conmigo",
+        "explanation": "En muy pocas ocasiones ha pasado que tenemos la oportunidad de echarnos una siesta juntos, pero cuando si, es demasiado rico. Yo amo las siestas, y te amo a ti, entonces que mejor combinación que juntar las dos partes. No solo eso, sino que también me hace sentir muy feliz que tengas la confianza de decir, yap, me voy a echar un tuto, cuando estas conmigo. Eso si, aún no te perdono una vez que viniste a mi casa y te dije que e iba a tomar una siesta de 20 minutos, y simplemente decidiste no despertarme a los 20 minutos."
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "type": ["Water"],
+        "height": 1.0,
+        "weight": 20.0,
+        "abilities": ["Water Absorb", "Swift Swim"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/61.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/poliwhirl/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/poliwhirl/2.png"
+        ],
+        "reason": "Amo que me digas buenas noches todas las noches",
+        "explanation": "Yo creo que es bastante claro que entre los dos no hablamos mucho por chat. A menos que haya alguna anécdota o alguna cosa que organizar, la verdad es que vivimos vidas bastante separadas e independientes. Por lo mismo, siempre tener un mensaje de buenas noches tuyo me ayuda mucho a saber que a pesar de todo lo anteterior, sigues siendo mi polola y me sigues queriendo."
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "type": ["Water", "Fighting"],
+        "height": 1.3,
+        "weight": 54.0,
+        "abilities": ["Water Absorb", "Swift Swim"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/62.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/poliwrath/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/poliwrath/2.png"
+        ],
+        "reason": "Amo que tus rodillas estén hechas de vidrio",
+        "explanation": "Esta es una de las cosas tuyas que me hacen recordar que eres una persona mayor dentro de un cuerpo que también se adapta a como eres. Vives como una abuelita y tus rodillas dijieron que ni cagando se quedaban atrás. Me da risa el balance de las cosas, siempre y cuando tus rodillas te mantengan el balance y no te saques la chucha."
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "type": ["Psychic"],
+        "height": 0.9,
+        "weight": 19.5,
+        "abilities": ["Synchronize", "Inner Focus"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/63.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/abra/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/abra/2.png"
+        ],
+        "reason": "Amo tu gusto musical",
+        "explanation": "Menos mal no te gusta el reggaeton, porque si no, no se que haría. Por un lado, compartimos mucho en las canciones gringas, asíque siempre se que algunas de las canciones que pongo en mi auto, a ti también te van a gustar. Por otro lado, diferimos mucho en otras. Yo soy bastante más metalero, y tu eres una niña kpoper, entonces la dinámica que existe es muy bacan, porque me muestras canciones y temas que nunca escucharía por mi propia cuenta. Gracias alejandra cruzat por mostrarme la película Kpop Demon Hunters, puros bangers."
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "type": ["Psychic"],
+        "height": 1.3,
+        "weight": 56.5,
+        "abilities": ["Synchronize", "Inner Focus"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/64.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kadabra/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kadabra/2.png"
+        ],
+        "reason": "Amo que cuando te regalo algo, la próxima vez que nos vemos lo tienes puesto",
+        "explanation": "Maybe nunca te lo he dicho, pero cada vez que te veo con un arito que te regale, o un calcetín, me hace muy feliz. Cuando te elijo algo, es todo un proceso mental para mi entonces ver que lo usas, que te quede bonito y que lo uses, por dentro makes me a very happy man, así que gracias."   
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "type": ["Psychic"],
+        "height": 1.5,
+        "weight": 48.0,
+        "abilities": ["Synchronize", "Inner Focus"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/65.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/alakazam/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/alakazam/2.png"
+        ],
+        "reason": "Amo que me presumas",
+        "explanation": "A mi por mucho tiempo sentía que no tenía nada que presumir. Todo lo que hacía era porque lo tenía regalado o porque como ya era supuestasmente inteligente, no tenía valor lo que lograba. Tú bien sabes que a mi me carga hablar de mis logros o cosas de ese estilo. So que lo hagas tú y lo hagas con tanto orgullo, en verdad me llena demasiado y me hace saber que al menos todo mi esfuerzo, tiene a una persona que lo valora."
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "type": ["Fighting"],
+        "height": 0.8,
+        "weight": 19.5,
+        "abilities": ["Guts", "No Guard"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/66.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/machop/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/machop/2.png"
+        ],
+        "reason": "Amo poder presumirte",
+        "explanation": "Like cmon. Poder decir que mi polola es la puta cabra o hablar de ti es increible. Cualquier persona que me da la más mínima oportunidad de hacerlo, lo hago, porque tremenda polola que tengo. Definitivamente vale la pena presumirte."
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "type": ["Fighting"],
+        "height": 1.5,
+        "weight": 70.5,
+        "abilities": ["Guts", "No Guard"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/67.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/machoke/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/machoke/2.png"
+        ],
+        "reason": "Amo tu tatuaje",
+        "explanation": "Va a sonar medio obvio, porque tú fuiste quien lo hizo, pero tu tatuaje es muy tú. Algo significativo, bonito y simple. Yo soy 0 de tatuajes (perdón pero es casi imposible que logres que me haga uno), pero me gusta mucho el tuyo. Hasta te diría que te hagas otro, pero no le digas a tus papás."
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "type": ["Fighting"],
+        "height": 1.6,
+        "weight": 130.0,
+        "abilities": ["Guts", "No Guard"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/68.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/machamp/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/machamp/2.png"
+        ],
+        "reason": "Amo que sepas pararme los carros",
+        "explanation": "Uno de los primeros recuerdos que tengo de nosotros pololeando es en pichilemu, la noche que cury quedó para la cagada. Cuando lo fui a dejar, estaba entre cuidarlo o seguir carreteando contigo. El lado egoísta de mi quería irme contigo, pero tu me frenaste al seco y me dijiste No, quedate con cury. Después de eso tu sabes como siguió la historia, pero ese momento, me hizo pensar bien que era lo importante y menos mal me lo dijiste. Desde entonces, siempre has estado ahí para mantenerme en línea cuando hago cosas que no debería hacer. Es verdad que a veces no te hago caso (especialmente cuando vienen a lesiones), pero tenerte conmigo, sabiendo que vas a estar ahí para frenarme cuando necesito que alguien lo haga, me da muchísima segurida, y amo mucho que lo hagas por mi."
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "type": ["Grass", "Poison"],
+        "height": 0.7,
+        "weight": 4.0,
+        "abilities": ["Chlorophyll", "Gluttony"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/69.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/bellsprout/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/bellsprout/2.png"
+        ],
+        "reason": "Amo lo impactadad que quedas cuando hay una película que no he visto",
+        "explanation": "Pasa que tú tienes un repertorio gigante de películas y series que te has visto y es prácticamente imposible que yo me haya visto la mayoría. Entonces cuando te digo que no me he visto una, quedas scrambling pa comprender cómo es posible y apurándote para forzarme a verla y lo encuentro super tierno. Es como cuando a un cabro chico le dices que no has visto Cars y queda todo impactado y empieza a mostrate todos sus juguetes de auto y hablándote de lo bacan que es el Rayo Mcqueen, very cute."
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "type": ["Grass", "Poison"],
+        "height": 1.0,
+        "weight": 6.4,
+        "abilities": ["Chlorophyll", "Gluttony"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/70.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/weepinbell/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/weepinbell/2.png"
+        ],
+        "reason": "Amo que te crees mundos de Minecraft en pacífico",
+        "explanation": "Te voy a ser super sincero, no se cual es el objetivo detrás de estos mundos. Explorar sin ningún riesgo, y con todo por hacer, no es mucho lo mío. Pero verte a ti, feliz con tus casa, con tus miles de mascotas que recolectaste y con prácticamente una millonada de minerales, lo encuentro muy tierno. Es como un mini safe space de todo el caos que son los servidores de verdad."   
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "type": ["Grass", "Poison"],
+        "height": 1.7,
+        "weight": 15.5,
+        "abilities": ["Chlorophyll", "Gluttony"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/71.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/victreebel/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/victreebel/2.png"
+        ],
+        "reason": "Amo que no tomes",
+        "explanation": "Tal vez creas que estoy mientiendo, asumiendo que prefiero que tomes conmigo. Pero la verdad es que no. Tomar, ningún brillo y sinceramente prefiero mil veces estar contigo los dos sobrios, a que los dos tomando. Además, igual es bacan poder mandarte drunk texts sabiendo que los estás leyendo totalmente lúcida"
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "type": ["Water", "Poison"],
+        "height": 0.9,
+        "weight": 45.5,
+        "abilities": ["Clear Body", "Liquid Ooze"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/72.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tentacool/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tentacool/2.png"
+        ],
+        "reason": "Amo tu reacción cuando pruebas tragos",
+        "explanation": "Señorita que no toma nunca, pero si o si ha probado más tragos que yo a lo largo de su vida. Me da mucha risa, porque  cada vez que alguien te ofrece probar, lo haces como si el resultado fuese a ser distinto. But no, tomas un sorbo, pones tremenda cara de asco y dices oooo que está fuerte (aunque solo tuviese un 0.1% de alcohol)."
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "type": ["Water", "Poison"],
+        "height": 1.6,
+        "weight": 55.0,
+        "abilities": ["Clear Body", "Liquid Ooze"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/73.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tentacruel/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tentacruel/2.png"
+        ],
+        "reason": "Amo que estudies psicología",
+        "explanation": "Es que damn, carrera qlia difícil. Habría 0 chance de que podría hacer lo que tú haces. Tienes que ser demasiado inteligente y leer tanta cosa para que te vaya bien. Además, le puedo decir a mis amigos que mi polola es psicóloga y como son todos ingenieros o parecidos, tenemos todos la misma reacción de oooo que seca. Eso si, porfa no me sigas psicoanalizando."
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "type": ["Rock", "Ground"],
+        "height": 0.4,
+        "weight": 20.0,
+        "abilities": ["Rock Head", "Sturdy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/74.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/geodude/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/geodude/2.png"  
+        ],
+        "reason": "Amo lo perseverante que eres",
+        "explanation": "Que mujer más perseverante la cago. Cuando todo parece  estar en la mierda, tú sigues para adelante. Yes you might cry, o sufrir o pasarla como el pico en el momento, pero siempre dices fuck it, fuck everything y sigues. Like, yo conozco mucha gente que en tu posición, el semestre pasado se echaba ese ramo que tenías casi muerto. Pero tú no, te pusiste los pantalones, te sacaste la ctm estudiando y te sacaste un puto 6,1. Realmente si pones tu mente en algo, no hay forma de que no lo logres."
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "type": ["Rock", "Ground"],
+        "height": 1.0,
+        "weight": 105.0,
+        "abilities": ["Rock Head", "Sturdy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/75.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/graveler/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/graveler/2.png"
+        ],
+        "reason": "Amo que seas autocritica",
+        "explanation": "No hay nada que más me cargue que la gente que se cree la raja (o el hoyo del queque, como dirías tú). Y tú eres completamente lo contrario (sometimes too much for your own good). Sabes en qué fallas, sabes en qué mejorar, y tampoco te quedas parada conforme con cómo estás. Eres una persona increible, con muchísimas cosas de las que puedes estar orgullosa. Entonces que seas capas de mirarte a ti misma y decir, esto podría ser mejor, toma mucho valor y es super admirable."
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "type": ["Rock", "Ground"],
+        "height": 1.4,
+        "weight": 300.0,
+        "abilities": ["Rock Head", "Sturdy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/76.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/golem/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/golem/2.png"
+        ],
+        "reason": "Amo que seas directa",
+        "explanation": "As straight as an arrow. Me encanta, yo soy una persona que le gusta que le digan las cosas tal como son, porque dejar las cosas como en el aire me hace sobrepensar las weas demasiado. So saber que tú me vas a decir a mi o a otras personas las cosas como son, siempre manteniendo un nivel de respeto hacia ellos. Se aprecia mucho que seas así, aunque haya gente que te diga que no les gusta, fuck em. Si hicieron algo para que se lo tengas que decir directamente, lo más probable es que se lo merecen."
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "type": ["Fire"],
+        "height": 1.0,
+        "weight": 30.0,
+        "abilities": ["Run Away", "Flash Fire"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/77.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ponyta/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ponyta/2.png"
+        ],
+        "reason": "Amo como eres con tus caballos",
+        "explanation": "Esta parte en particular merecía una sección aparte de la de mascotas, cause como eres con tus caballos es bien distinto. Me encanta que cada vez que vamos a Tunca, quieres puro mostrarnos los caballos. Cuando llegamos, le haces todo un show, lo haces sonreir haciendole cosquillas, les das para comer manzanas, y mucho más. Aunque los veas poco, o no tengas mucho tiempo para ellos, se nota cuanto los quieres y cuanto te preocupas por ellos, so verte toda feliz jugando con ellos también me hace a mi feliz."
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "type": ["Fire"],
+        "height": 1.7,
+        "weight": 95.0,
+        "abilities": ["Run Away", "Flash Fire"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/78.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rapidash/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rapidash/2.png"
+        ],
+        "reason": "Amo que seas tan empoderada",
+        "explanation": "Si hay algo que a mi me encanta de ti, es que seas empoderada. No tienes miedo a nadie, ni lo que dicen o hacen. Me encanta que no te dejes pisotear por nadie, y que te mantegas firme frente a cualquier weon que te quiera tirar para abajo. Realmente es de tus características más atractivas."   
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "type": ["Water", "Psychic"],
+        "height": 1.2,
+        "weight": 36.0,
+        "abilities": ["Oblivious", "Own Tempo"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/79.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/slowpoke/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/slowpoke/2.png"
+        ],
+        "reason": "Amo que puedas pasar un día entero haciendo absolutamente nada",
+        "explanation": "Partamos por el hecho de que esos días son los mejores días. Estar echado en la cama, sin intención de levantarse hasta el otro día. So que tú también lo hagas lo hace mucho mejor. Like me imagino en un futuro lejano, los dos echados en una cama un fin de semana, donde no movamos ni siquiera un dedo, osea no existe mejor panorama."
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "type": ["Water", "Psychic"],
+        "height": 1.6,
+        "weight": 78.5,
+        "abilities": ["Oblivious", "Own Tempo"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/80.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/slowbro/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/slowbro/2.png"
+        ],
+        "reason": "Amo que tu celular esté lleno de juegos de abuela",
+        "explanation": "Todos los juegos de celular o se parecen a juegos que tendría mi mamá o los juegos que aparecen en los los anuncios de tiktok. Realmente me causa mucha gracia que con todos tus jueguitos, te conviertas en una especie de ipad kid, constantemente completando los niveles para ganar alguna recompensa de mierda al final de todo."
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "type": ["Electric", "Steel"],
+        "height": 0.3,
+        "weight": 6.0,
+        "abilities": ["Magnet Pull", "Sturdy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/81.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magnemite/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magnemite/2.png"
+        ],
+        "reason": "Amo que seas parte del coro de la Uandes",
+        "explanation": "Honestly, encuentro bacan que hayas encontrado algo fuera de lo que viene a ser estudiar psicología no más. Además, se nota lo mucho que te apasiona cantar y se ve reflejado en todo el esfuerzo que pones en quedarte constantemente en horarios de mierda a ensayar. Es super cool que tengas este lado a ti que para mi sería imposible replicar (i mean, ya viste la tragedia que sería tenerme a mi en un coro)."
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "type": ["Electric", "Steel"],
+        "height": 1.0,
+        "weight": 60.0,
+        "abilities": ["Magnet Pull", "Sturdy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/82.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magneton/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magneton/2.png"
+        ],
+        "reason": "Amo que siempre tengas tus prioridades claras",
+        "explanation": "Es fácil desviarse de lo que uno debería hacer por algo más fácil o más entretenido tal vez. En tu caso, sabes muy bien que cosas son importantes para ti y que cosas no tanto. Siempre vas a hacer sentir a esas personas que priorizas importante y cuando te necesiten, ahí estarás. Es algo que muy poca gente realmente hace, so amo que tú si lo hagas y lo tengas clarísimo en tu día a día-"
+    },
+    {
+        "id": 83,
+        "name": "Farfetch'd",
+        "type": ["Normal", "Flying"],
+        "height": 0.8,
+        "weight": 15.0,
+        "abilities": ["Keen Eye", "Inner Focus"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/83.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/farfetchd/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/farfetchd/2.png"
+        ],
+        "reason": "Amo que siempre sabes que decirme cuando tengo un problema",
+        "explanation": "Sabes muy bien que rara vez llegó a ti a contarte algún problema que tengo, por lo que generalmente cuando lo hago es porque estoy para la cagada. En estas situaciones donde no se que hacer, o simplemente no hay nada que puedo hacer, siempre tienes algo que decirme, o algo que aportar que me ayuda a ver las cosas de otra forma. Soy muy bueno para meterme en hoyos que no se cómo salir cuando vienen a mis problemas personales, entonces aprecio muchísimo que en esos casos, estés ahí para darme some words of encouragement o wisdom que me sirven para levantarme y seguir adelante."
+    },
+    {
+        "id": 84,
+        "name": "Doduo",
+        "type": ["Normal", "Flying"],
+        "height": 1.4,
+        "weight": 39.2,
+        "abilities": ["Run Away", "Early Bird"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/84.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/doduo/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/doduo/2.png"
+        ],
+        "reason": "Amo que seas más alta que yo",
+        "explanation": "Es que no comprendes el aura que obtengo por estar con alguien más alta que yo. Y mejor aún cuando te pones tacos, like yeah esta mujer eligió al enano de metro setenta y ni yo se porque. "
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "type": ["Normal", "Flying"],
+        "height": 1.8,
+        "weight": 85.2,
+        "abilities": ["Run Away", "Early Bird"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/85.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dodrio/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dodrio/2.png"
+        ],
+        "reason": "Amo que digas que te gusta trabajar con locos, pero que después te de miedo",
+        "explanation": "Siempre me da risa cuando dices a si yo quiero trabajar en un manicomnio, con los psicópatas y asesinos en serie, pero bajo la condición de que cada vez que entres tienes que hacerlo como otra persona, para que no te sigan después cuando inevitablemente se escapen. Osea, es muy contradictorio, pero me da risa que mezcles tu lado valiente, con tu otro lado paranóico."
+    },
+    {
+        "id": 86,
+        "name": "Seel",
+        "type": ["Water"],
+        "height": 1.1,
+        "weight": 90.0,
+        "abilities": ["Thick Fat", "Hydration"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/86.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/seel/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/seel/2.png"
+        ],
+        "reason": "Amo que seas blanca como la nieve",
+        "explanation": "Just to clear up, esto no tiene ninguna motivación racial de fondo. Solamente me encanta tu color de piel, wait no así no, me gusta lo blanca que eres. Fuck ese tampoco, well tú entiendes. (Pls no me funes)"
+    },
+    {
+        "id": 87,
+        "name": "Dewgong",
+        "type": ["Water", "Ice"],
+        "height": 1.7,
+        "weight": 120.0,
+        "abilities": ["Thick Fat", "Hydration"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/87.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dewgong/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dewgong/2.png"
+        ],
+        "reason": "Amo que te veas documentales de asesinos y criminales como si nada",
+        "explanation": "Literal solo te faltrían las cabritas cuando te ves estas weas. No comprendo como una persona que puede tenerle tanto miedo a todas estas cosas, lo vea tan tranquila y hasta disfruta ver estos documentales tan atrozes. Es realemente impresionante so hats off to you."
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "type": ["Poison"],
+        "height": 0.9,
+        "weight": 30.0,
+        "abilities": ["Stench", "Poison Touch"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/88.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/grimer/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/grimer/2.png"
+        ],
+        "reason": "Amo lo informado que me mantienes",
+        "explanation": "Mira, tú sabes que yo vivo practicamente bajo una roca. Si no es acerca de fútbol, no me entero de absoultamente nada de lo que pasa en el mundo. Por lo mismo, me encanta que seas como una news reporter para mi. Cualquier drama, catastrofe o noticia fome no me la pierdo ahora, porque siempre vas a contarme de lo que pasó, aún cuando tenga que recibir un poco de judgmente cada vez por no saber nada."
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "type": ["Poison"],
+        "height": 1.2,
+        "weight": 30.0,
+        "abilities": ["Stench", "Poison Touch"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/89.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/muk/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/muk/2.png"
+        ],
+        "reason": "Amo que soportes mis ppts explicativos",
+        "explanation": "Encuentro muy entretenido hacer estos ppts y hablar mierda mientras los presento. Entonces que mejor que justo la persona que me los soporte y hasta interactúe con ellos es mi polola. Todo lo que tienes que hacer es pedirme uno, y te juro que después de eso, terminarás como experta en el tema."
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "type": ["Water"],
+        "height": 0.3,
+        "weight": 4.0,
+        "abilities": ["Shell Armor", "Skill Link"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/90.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/shellder/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/shellder/2.png"
+        ],
+        "reason": "Amo que a tus mascotas les pongas nombres exóticos",
+        "explanation": "¿Bax?  ¿Vex?, yeah en mi vida habría pensado en ponerle esos nombres a unos perros, aún cuando si hubiese visto la serie en los que se inspiran. Y ni hablar de tus mascotas en el Minecraft. Me acuerdo el primer mundo, cuando me presentaste todas tus mascotas, pensé que estaban sacados directamente de un libro de filosofía griega. Muy creativo, a mi ni cagando se me ocurrían, todos se llamarían Saka."
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "type": ["Water", "Ice"],
+        "height": 1.5,
+        "weight": 132.5,
+        "abilities": ["Shell Armor", "Skill Link"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/91.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/cloyster/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/cloyster/2.png"
+        ],
+        "reason": "Amo el esfuerzo que pones en hacer nuevas cosas en nuestra relación",
+        "explanation": "Yo se que para ti cualquier cosa nueva o distinta, te causa niveles gigantes de ansiedad. Sin embargo, lentamente te veo dando un paso, y después otro, y quiero que sepas que ese esfuerzo, aunque tú creas que no parece llevar a nada, lo apreció muchísmo. Onda, te fuiste con mi familia a Viña sola, sé que eso es algo para ti que te genera un sin fin de preocupaciones, but lo hiciste igual. En verdad muchas gracias, so yeah, you just keep taking your time, i'll still be here."
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "type": ["Ghost", "Poison"],
+        "height": 1.3,
+        "weight": 0.1,
+        "abilities": ["Levitate"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/92.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gastly/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gastly/2.png"
+        ],
+        "reason": "Amo que tu color favorito sea el negro",
+        "explanation": "Que color más bacan el negro. Demasiada aura que te guste el negro, además de que te queda tan pero tan bien. Además, así puedo decir que mi polola es gótica jsjsjs."
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "type": ["Ghost", "Poison"],
+        "height": 1.6,
+        "weight": 0.1,
+        "abilities": ["Levitate"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/93.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/haunter/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/haunter/2.png"
+        ],
+        "reason": "Amo que te den miedo las películas de terror",
+        "explanation": "Creo que nunca hemos visto una película de terro juntos, y eso es lo que hace esto mucho mejor. Yo se que algún día, te lograré convencer de que veamos una, y sabiendo el miedo que te da, hace que la espera para ese día sea aún mejor. Cuando me contaste que te dió miedo la llorona animada, no sabía si reirme o preocuparme. Igual en ambos casos, no podía no causarme gracia la situación (perdónn jsjsjs) "
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "type": ["Ghost", "Poison"],
+        "height": 1.5,
+        "weight": 40.5,
+        "abilities": ["Cursed Body"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/94.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gengar/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gengar/2.png"
+        ],
+        "reason": "Amo tu etapa emo",
+        "explanation": "Es que jsjsjsjjs. Me da mucha, mucha risa tu época emo con chasquilla. Es muy buen material de webeo, y encuentro aún más chistos que aunque ya haya pasado hace caleta de tiempo, aún hay una pequeña parte de ti que lleva consigo a la Ale de séptimo."
+    },
+    {
+        "id": 95,
+        "name": "Onix",
+        "type": ["Rock", "Ground"],
+        "height": 8.8,
+        "weight": 210.0,
+        "abilities": ["Rock Head", "Sturdy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/95.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/onix/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/onix/2.png"
+        ],
+        "reason": "Amo que leas tanto",
+        "explanation": "No se si podría llamar literatura como tal las barbaridades que lees, pero si lo encuentro muy impresinoante. Ya sean wattpad, webtoon o algún libro físico, el hecho de que leas tanto de por si ya es brígido. Además, es re entretenido cuando te pones a contar de lo que trata el libro que estás leyendo, y lo emotionally invested que terminas. Estoy seguro de que he visto mínimo 3 videos donde estás en lágrimas mal por algún libro que te estabas leyendo."
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "type": ["Psychic"],
+        "height": 1.0,
+        "weight": 32.4,
+        "abilities": ["Insomnia", "Forewarn"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/96.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/drowzee/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/drowzee/2.png"
+        ],
+        "reason": "Amo que te de sueño a las 10 de la noche",
+        "explanation": "Es lo mejor, like debe ser el efecto pololeo, pero yo realmente ya no aguanto para sálidas hasta tan tarde. No tienes ni idea la cantidad de veces que he estado en un carrete y lo único que he querido es que estes para que me digas que tienes sueño y que te quieres ir a la casa. Like, es la mejor excusa gratis que puedo tener y no tengo que hacer absolutamente nada para usarla."
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "type": ["Psychic"],
+        "height": 1.6,
+        "weight": 75.6,
+        "abilities": ["Insomnia", "Forewarn"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/97.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/hypno/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/hypno/2.png"
+        ],
+                "reason": "Amo que manejes como abuela",
+        "explanation": "Aquí, voy a tener que ser completamente honesto. No manejas mal, aunque te haya weado desde que te tuviste tu licencia. Lo que si, es que manejas como abuela jsjsjsj. Es entretenido ir atrás en tu auto, mientras manejas a 1km/h, tranquila, cantando una canción o de una serie o de kpop. Manejas muy pegada al volante, siempre como on alert y lo encuentro muy tierno no se porque."
+    },
+    {
+        "id": 98,
+        "name": "Krabby",
+        "type": ["Water"],
+        "height": 0.4,
+        "weight": 6.5,
+        "abilities": ["Hyper Cutter", "Shell Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/98.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/krabby/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/krabby/2.png"
+        ],
+        "reason": "Amo que te carguen las arañas, pero que tengas que matarlas igual",
+        "explanation": "Nunca me voy a olvidar esa mañana en Tunca. Yo me había despertado re tranquilo, y baja la coni y me pregunta, ey si te hubiesemos despertado a las 2 de la mañana a matar una araña, lo habría hecho? Y yo quede como a. Yo se que a ti definitivamente no te gustan las arañas, pero que te hayas puesto la capa para matarla y me hayas permitido seguir durmiendo es algo que apreciaré hasta el fin de los tiempos (i really love my sleep)."
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "type": ["Water"],
+        "height": 1.3,
+        "weight": 60.0,
+        "abilities": ["Hyper Cutter", "Shell Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/99.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kingler/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kingler/2.png"
+        ],
+        "reason": "Amo cuando nos echamos a ver tu feed de tiktok",
+        "explanation": "Es un momento de plena relajación. tu estás scrolling mientras yo estoy echado sin ningún pensamiento en mi cabeza. Además aparece tanta mierda en el tuyo, que a veces me cuestionó no solo tu humor, sino tu sanidad mental. Además, lo mejor es cuando en la mitad de estar viendo los videos, te acuerdas de uno que me quieres mostrar y te metes a tus guardados. El 99% de las veces no encuentras el video eso si, pero es entretendio verte buscarlo intensamente entre los miles de tiktoks que ya tienes guardados."
+    },
+    {
+        "id": 100,
+        "name": "Voltorb",
+        "type": ["Electric"],
+        "height": 0.5,
+        "weight": 10.4,
+        "abilities": ["Soundproof", "Static"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/100.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/voltorb/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/voltorb/2.png"
+        ],
+        "reason": "Amo que te vayas a quedar calva de tanto teñirte el pelo",
+        "explanation": "Parece ser un loop esta cosa. Te tiñes y dices, ya última vez que se me quema el pelo. Pasa un tiempo y dices mmmm podría volver a teñirme, pero ya última vez. Honestly, a mi me va a gustar tu pelo aunque no tengas niuno en tu cabeza. Ya te ofrecí comprarte pelucas en el caso de que se te caiga todo, para que no quede como mi amigo el Voltorb que tienes acá al lado."
+    },
+    {
+        "id": 101,
+        "name": "Electrode",
+        "type": ["Electric"],
+        "height": 1.2,
+        "weight": 66.6,
+        "abilities": ["Soundproof", "Static"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/101.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/electrode/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/electrode/2.png"
+        ],
+        "reason": "Amo que me uses como calculadora",
+        "explanation": "Que bueno poder usar mis matemáticas para alguna wea útil. Tanto número y tanta mierda que tengo que ver, que es entretenido cuando me pides hacer multiplicaciones o sumas básicas, es como un break del horror que es ingeniería."
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "type": ["Grass", "Psychic"],
+        "height": 0.4,
+        "weight": 2.5,
+        "abilities": ["Chlorophyll", "Harvest"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/102.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/exeggcute/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/exeggcute/2.png"
+        ],
+        "reason": "Amo que seas (casi) igual de nulo que yo para la cocina",
+        "explanation": "Yo apostaría mucha, mucha plata a que un día vamos a quemar una cocina. No se como vamos a sobrevivir entre los dos en un principio, pero se que será un camino muy difícil. Es igual reconfortante saber que en esta relación, soy el más experiencia cocinando tiene (creo, no me juzges si es falso). Eso si, tengo que decir el rissoto que me hiciste el primer año de pololeo estaba espectacular y eso viene de probablemente el wn menos mañoso que conoces."
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "type": ["Grass", "Psychic"],
+        "height": 2.0,
+        "weight": 120.0,
+        "abilities": ["Chlorophyll", "Harvest"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/103.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/exeggutor/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/exeggutor/2.png"
+        ],
+        "reason": "Amo que a veces cuando llegas a tu casa, te quedas en el auto escuchando música",
+        "explanation": "En un principio era una tragedia porque pasaba media hora y aún no me avisabas que habías llegado a tu casa. Pero ahora, lo encuentro re entretenido. Like hasta yo he agarrado la costumbre de quedarme en mi auto escuchando la última canción para recien bajarme. No he llegado a tu nivel de estar media hora abajo, pero si le he agarrado el gusto a ese momento de tranquilidad, so gracias por enseñarme eso."
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "type": ["Ground"],
+        "height": 0.4,
+        "weight": 6.5,
+        "abilities": ["Rock Head", "Lightning Rod"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/104.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/cubone/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/cubone/2.png"
+        ],
+        "reason": "Amo como eres con los kbros chicos",
+        "explanation": "Para mi, hay muchas cosas que definen lo que es que alguien sea wife material y entre ellas está como es con los niños chicos. Tú, en ese aspecto, apruebas con 7 eximida por todos lados. Yo te veo como eres por ejemplo con tus sobrinos, el pascu y el santi, y me hace quererte muchísimo más. Siempre super preocupada y atenta, hablas con ellos con verdadera intención de saber como está y poder pasar un lindo rato con ellos. Es un trato muy especial que tienes con ellos, y es muy bonito verlo como tu pololo."
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "type": ["Ground"],
+        "height": 1.0,
+        "weight": 45.0,
+        "abilities": ["Rock Head", "Lightning Rod"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/105.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/marowak/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/marowak/2.png"
+        ],
+        "reason": "Amo cuando me abrazas por detrás",
+        "explanation": "Realmente necesito explicar esto? Well lo haré igual así que cagaste. Aquí ambos sabemos que no eres particularmente una persona que es de contacto físico todo el rato. So eso hace que tus abrazos sean aún mejores, cause cuando lo haces, es como si te estuvieses derritiendo mientras estás apoyada en mi espalda y nse, me hace sentir muy feliz."
+    },
+    {
+        "id": 106,
+        "name": "Hitmonlee",
+        "type": ["Fighting"],
+        "height": 1.5,
+        "weight": 49.8,
+        "abilities": ["Limber", "Reckless"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/106.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/hitmonlee/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/hitmonlee/2.png"
+        ],
+        "reason": "Amo que digas que soy seco pal volley, cuando no soy nada loco",
+        "explanation": "Para mi, volley es algo muy particular. Por lo general, aunque suene tal vez un poco sobrado, pero después de cierto tiempo enfocándome en algo, llego a un punto que lo tengo más o menos dominado. El volley me pasa lo contrario, siento que entreno y entreno y entreno y aún tengo muchas cosas que mejorar. So entre toda esta sobre exigencia que tal vez me pongo, es rico tenerte a ti diciendo que soy bueno, cause se que soy muy bueno para tirarme para abajo cuando viene al volley."
+    },
+    {
+        "id": 107,
+        "name": "Hitmonchan",
+        "type": ["Fighting"],
+        "height": 1.4,
+        "weight": 50.2,
+        "abilities": ["Iron Fist", "Keen Eye"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/107.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/hitmonchan/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/hitmonchan/2.png"
+        ],
+        "reason": "Amo que a pesar de no poder pegarle a una hormiga, amenazes a la gente con palazos y escobazos",
+        "explanation": "Honestly, me causa mucha gracia esto jsjsjsjjs, Osea, el simple hecho de imaginarte persiguiendo a un wn como cury, todo macizo, con una escoba me da mucha risa. Además, cuando ofreces combos lo dices con tanta convicción, que es hasta un poquito creible, pero knowing que por detrás simplemente estai completamente chata de tu siguiente víctima."
+    },
+    {
+        "id": 108,
+        "name": "Lickitung",
+        "type": ["Normal"],
+        "height": 1.2,
+        "weight": 65.5,
+        "abilities": ["Own Tempo", "Cloud Nine"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/108.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/lickitung/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/lickitung/2.png"
+        ],
+        "reason":"Amo lo dispuesta que estás siempre para ayudar a alguien",
+        "explanation": "Es digno de admiración como siempre tienes tiempo para ayudar a alguien cuando lo necesite, especialmente considerando que eres alguien que el tiempo nunca, pero nunca le sobra. Si yo fuese tú, en muchos casos diría no ni cagando estoy ocupado, pero tú lo haces igual. Ya sea a tu mamá, tu papá o alguna de las cabras de psicología, siempre estás."
+    },
+    {
+        "id": 109,
+        "name": "Koffing",
+        "type": ["Poison"],
+        "height": 0.6,
+        "weight": 1.0,
+        "abilities": ["Levitate"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/109.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/koffing/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/koffing/2.png"
+        ],
+        "reason": "Amo que le pongas notas a los flatos",
+        "explanation": "Tan señorita que es usted, tan atenta que es, tanta educación que tiene, pero el momento que alguien se tira un flato, hay que sacar hoja y papel para ponerle nota. Además, cada vez que alguien se tira uno, te pones pensativa por un segundo, dices mmmmm y le pones la nota. No se como chucha en los 4 años que estamos juntos aún no me ha salido uno contigo (probablemente mi cuerpo inconscientemente tiene miedo a tirarme uno frente a tu fam), pero cuando lo haga, espero recibir una nota justa y acordé al performance que acabo de entregar."
+    },
+    {
+        "id": 110,
+        "name": "Weezing",
+        "type": ["Poison"],
+        "height": 1.2,
+        "weight": 9.5,
+        "abilities": ["Levitate"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/110.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/weezing/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/weezing/2.png"
+        ],
+        "reason": "Amo que te hayas metido al mundo de Pokemon",
+        "explanation": "No puedo creer la suerte que tengo de que las 2 cosas que prácticamente marcaron mi infancia, además de el fútbol, te empezaron a gustar mientras pololeamos. Like, its a dream come true. Puedo hablar de Pokemon y todas las weas ratas que quiera ahora y algo entenderás. Antes si yo te habría mencionado algo, yo creo que lo único que habrías sabido algo de es Pikachu, cause who doesn't know about Pikachu."
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "type": ["Ground", "Rock"],
+        "height": 1.0,
+        "weight": 115.0,
+        "abilities": ["Lightning Rod", "Rock Head"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/111.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rhyhorn/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rhyhorn/2.png"
+        ],
+        "reason": "Amo tus manos",
+        "explanation": "No se como explicarlo, no me pidas hacerlo tampoco, pero me encantan. Son muy tomables y besables, eso si se 100%."
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "type": ["Ground", "Rock"],
+        "height": 1.9,
+        "weight": 120.0,
+        "abilities": ["Lightning Rod", "Rock Head"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/112.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rhydon/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/rhydon/2.png"
+        ],
+        "reason":"Amo lo estudiosa que eres",
+        "explanation": "Una cosa que a mi personalemnte me motiva mucho a sacarme la cresta estudiando ingenieria, es verte a ti haciendo lo mismo. Siento que tener a alguien al lado mío, que se esfuerza tanto por sacar buenas notas y aprender, me motiva mucho a hacer lo mismo. NO puedo permitirme aflojar cuando tengo a una polola inteligentísima que se mata estudiando todas las semanas."   
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "type": ["Normal"],
+        "height": 1.1,
+        "weight": 34.6,
+        "abilities": ["Natural Cure", "Serene Grace"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/113.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/chansey/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/chansey/2.png"
+        ],
+        "reason": "Amo que me mandes fotos tuyas",
+        "explanation": "Esto está aquí por dos razones. Primero, osea me encanta tener fotos tuyas. Aunque no me creas, de las cosas que más me dolió cuando mi otro celular dejó de funcionar, es que todas las foto que tenía de ti, todas las selfies que llevaba guardando por 3 años, las perdi. Sigo hasta hoy buscando como arreglar la cagada de celular para recuperarlas, proque puta que me encantan. Lo segundo, esto es un cry for help para que mandes más fotos. Cualquier donación será felizmente aceptada por la fundación Sanma."
+    },
+    {
+        "id": 114,
+        "name": "Tangela",
+        "type": ["Grass"],
+        "height": 1.0,
+        "weight": 35.0,
+        "abilities": ["Chlorophyll", "Leaf Guard"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/114.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tangela/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tangela/2.png"
+        ],
+        "reason": "Amo tu pelo",
+        "explanation": "Con caspa o sin caspa, lavado o no lavado, teñido o no teñido, corto o largo, encuentro precioso tu pelo. He visto tu pelo tomar múltiples formas, y puedo decir con total seguridad que cada uno de ellos me ha gustado."
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "type": ["Normal"],
+        "height": 2.2,
+        "weight": 80.0,
+        "abilities": ["Early Bird", "Scrappy"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/115.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kangaskhan/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kangaskhan/2.png"
+        ],
+        "reason": "Amo que me hayas introducido al anime",
+        "explanation": "Para ponerlo simple, me cambiaste la vida. Por mucho tiempo no había querido ver anime por las mismas razones que muchas gente tenía en ese tiempo. Ahora, me arrepiento de no haber partido antes. Me abrió un mundo gigantesco, tantas cosas que me han gustado, que he podido compartir con amigos de la u y series tan pero tan buenas que si pudiera, me las vería de zero. Y todo esto, te lo debo a ti, que me recomendaste haikyuu, dejándome completamente enganchado del anime y de la persona que me lo recomendó."
+    },
+    {
+        "id": 116,
+        "name": "Horsea",
+        "type": ["Water"],
+        "height": 0.4,
+        "weight": 8.0,
+        "abilities": ["Swift Swim", "Sniper"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/116.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/horsea/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/horsea/2.png"
+        ],
+        "reason": "Amo que disfrutes las películas malísimas",
+        "explanation": "Hay algo bonito en disfrutar las pelíclas que son notoriamente malas. No se como disfrutaste tanto cuando vimos Twilight, porque yo estaba al borde de sacarme los ojos. Incluiría también en esta sección Zombies, pero el tema es que tú la encuentras realmente buena. Ya pero en serio, eres capaz de hacer una película super fome y mala, toda una experiencia."
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "type": ["Water"],
+        "height": 1.2,
+        "weight": 25.0,
+        "abilities": ["Poison Point", "Sniper"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/117.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/seadra/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/seadra/2.png"
+        ],
+        "reason": "Amo lo bacan que se ve tu clávicula fuera",
+        "explanation": "Shit looks badass. Tal vez la historia no lo sea, pero en si lo encuentro épico. Puro aura."
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "type": ["Water"],
+        "height": 0.6,
+        "weight": 15.0,
+        "abilities": ["Swift Swim", "Water Veil"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/118.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/goldeen/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/goldeen/2.png"
+        ],
+        "reason": "Amo como se te ven los ojos cuando te maquillas",
+        "explanation": "Antes de decir, tengo que dejar claro que tus ojos ya de por si solo me hacen pensar cosas no muy cristianas. Pero cuando te los maquillas GOD FUCKING DAMN WOMAN. Es que la cagó, no se que más decir al respecto pero es que la cagó, stunning 1000/10."
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "type": ["Water"],
+        "height": 1.3,
+        "weight": 39.0,
+        "abilities": ["Swift Swim", "Water Veil"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/119.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/seaking/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/seaking/2.png"
+        ],
+        "reason": "Amo que, sorprendentemente, la sangre y las tripas no te hagan efecto",
+        "explanation": "Es que a ver dejame entender. El vomito no te lo puedes ni cagando, pero órganos expuestos y exceso de sangre, si traigan las cabritas. No logro hacerlo cuadrar en mi cerebro cuadrado, como que una cosa debería implicar la otra, pero aquí no. Eres todo un puto enigma Alejandra Cruzat"
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "type": ["Water"],
+        "height": 0.8,
+        "weight": 34.5,
+        "abilities": ["Illuminate", "Natural Cure"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/120.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/staryu/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/staryu/2.png"
+        ],
+        "reason": "Amo que prefieras quedarte en casa que salir a carretear",
+        "explanation": "Tú siempre me dices, ooo que eri carretero, sales caleta blah blah blah. Pero te lo digo en serio, no lo soy. Entonces tener una polola que sea de la misma onda, es un agrado. Si fuese por mi, me quedaría en mi casa 9/10 veces que estoy invitado a salir, y si en futuro eso implica quedarme también contigo adentro, then im all for it."
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "type": ["Water", "Psychic"],
+        "height": 1.1,
+        "weight": 80.0,
+        "abilities": ["Illuminate", "Natural Cure"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/121.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/starmie/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/starmie/2.png"
+        ],
+        "reason": "Amo que no pases la jalea",
+        "explanation": "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO, además del agua no pasas la jalea? Que mañosa por dios. No puedo creer que existe gente tn mañosa como tú. Hay niños en Africa que matarían por un poco de jalea, y tú que no te la puedes. Nada que ver."
+    },
+    {
+        "id": 122,
+        "name": "Mr. Mime",
+        "type": ["Psychic", "Fairy"],
+        "height": 1.3,
+        "weight": 54.5,
+        "abilities": ["Soundproof", "Filter"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/122.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mr_mime/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mr_mime/2.png"
+        ],
+        "reason": "Amo que sepas controlar tus emociones",
+        "explanation": "Admiro muchísimo como manejas tus emociones. A mi desde chico me fue super difícil saber como enfrentar mis emociones, cause well im a man and no emotions for me. So verte a ti ser tan abierta con como te sientes con las cosas, es envidiable. Si algo te enoja lo dices, si algo te frusta, lo dices, si algo te hace triste, no te lo gaurdas. En ese sentido eres en verdad alguien a que yo miró y digo, puta que me gustaría poder ser como ella."
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "type": ["Bug", "Flying"],
+        "height": 1.5,
+        "weight": 56.0,
+        "abilities": ["Swarm", "Technician"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/123.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/scyther/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/scyther/2.png"
+        ],
+        "reason":"Amo que juegues los juegos que aparecen en los anuncios",
+        "explanation": "Like, es como si no te fuese suficiente ya jugar tu juego de tiktok que tienes descargado, sino que además aprovechas de jugar los mini tutoriales que aparecen en los anuncios. No se, lo encuentro muy cute, es como que una guagua tenga acceso a un celular."
+    },
+    {
+        "id": 124,
+        "name": "Jynx",
+        "type": ["Ice", "Psychic"],
+        "height": 1.4,
+        "weight": 40.6,
+        "abilities": ["Oblivious", "Forewarn"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/124.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/jynx/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/jynx/2.png"
+        ],
+        "reason": "Amo tus labios",
+        "explanation": "Esta tiene dos lados. Por uno, i mean, debería ser obvio. Tus labios son estupidamente, absurdamente, increiblemente bonitos. Like, no me quiero poner muy cringy pa la wea, pero son los labios más fucking besables que hay, y el hecho de que sean de mi polola lo hace muchísimo mejor. Por otro lado, está toda la mierda (en el buen sentido) que sale de ahí. Like no se como lo haces para tener tanto que hablar y aún no aburrirme. Es realmente un don tuyo todo lo que puedes yapear, and i fucking love it."
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "type": ["Electric"],
+        "height": 1.1,
+        "weight": 30.0,
+        "abilities": ["Static", "Vital Spirit"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/125.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/electabuzz/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/electabuzz/2.png"
+        ],
+        "reason": "Amo tus piernas",
+        "explanation": "Gotta love those long ass legs. No se que más decir respecto a ellas, they just got some raw ass sexual appeal"
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "type": ["Fire"],
+        "height": 1.3,
+        "weight": 44.5,
+        "abilities": ["Flame Body", "Vital Spirit"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/126.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magmar/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magmar/2.png"
+        ],
+        "reason": "Amo que te pique hasta el peperroni del Papa John's",
+        "explanation": "Esto si me da muchísima risa. Tan bad ass bitch que eres, con tremendo carácter y todo, sin miedo a putear a nadie, pero llega un peperroni, y cagaste. Ni siquiera pica tanto, pero para ti es demasaido para soportar. Eso si, yo no estoy alegando, sigue pasándome todos tus peperronis que me voy a comer cada uno de ellos."
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "type": ["Bug"],
+        "height": 1.5,
+        "weight": 55.0,
+        "abilities": ["Hyper Cutter", "Mold Breaker"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/127.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pinsir/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/pinsir/2.png"
+        ],
+        "reason": "Amo que cuando te depilas las piernas, me obligas a pasar mis manos",
+        "explanation": "Siempre llegas y es como mira mira. Me tomas la mano y me la haces pasar por tus piernas pa ver los suaves que están. Y efectivamente, están más suaves que la chucha so i just nod in agreement."
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "type": ["Normal"],
+        "height": 1.4,
+        "weight": 88.4,
+        "abilities": ["Intimidate", "Anger Point"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/128.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tauros/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/tauros/2.png"
+        ],
+        "reason": "Amo que te pelees con la Majo por las cosas vencidas",
+        "explanation": "Es que que manera de bancarte eso. Like yeah, cuando las cosas están vencidas por un día se entiende, pero cuando te quieren hacer comer leche condensadas vencida hace años, yeah no thanks. Más de una vez en Tunca me has salvado a mi y a todo mi sistema digestivo de desintegrarse por asegurarte de que estamos comiendo comida viable. Es tanto, que hasta yo me aseguro de revisar las fechas de vencimiento de las cosas en tu casa."
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "type": ["Water"],
+        "height": 0.9,
+        "weight": 10.0,
+        "abilities": ["Swift Swim", "Rattled"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/129.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magikarp/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/magikarp/2.png"
+        ],
+        "reason": "Amo que no te guste el agua",
+        "explanation": "Otra de las cosas con las que te puedo webear sin que te enojes. Me hace sentir muy tranquilo saber que no soy el más mañoso de esta relación. No pero en serio, cuando me dijiste por primera vez que no te gustaba el agua pensé que me estabas agarrando pal webeo. De todas las mañas que puedes haber tenido, decidiste la más vitial para la supervivencia humana. Absolute cinema."
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "type": ["Water", "Flying"],
+        "height": 6.5,
+        "weight": 235.0,
+        "abilities": ["Intimidate", "Moxie"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/130.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gyarados/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/gyarados/2.png"
+        ],
+        "reason": "Amo que me regales almendras",
+        "explanation": "Yo se que regalar almendras específicamente no es algo que deberías hacer, i mean, le vendes el mismo kilo que nos pasaste a mi y a mi mamá a las mamás de cris y el samu. So que decidas igual regalarle a mi familia las almendras se aprecia muchísimo, y es como un mini regalo que siempre recibiré muy feliz."
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "type": ["Water", "Ice"],
+        "height": 2.5,
+        "weight": 220.0,
+        "abilities": ["Water Absorb", "Shell Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/131.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/lapras/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/lapras/2.png"
+        ],
+        "reason": "Amo que te cargue meterte a la piscina",
+        "explanation": "Parece contraintuitivo, porque siempre te hincho las bolas para que te metas a la piscina cada verano que me toca ir a Tunca. Pero es justo eso lo que me encanta. El hecho de que no te metas a la piscina me da la oportunidad de intentar convencerte para meterte, o de tirarte un poco de agua mientras estás echada actuando como si estuvieses tomando sol. Y todo eso, hace mucho mejor el momento en que finalmente cedes, porque es casi como ganarse la loteria."
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "type": ["Normal"],
+        "height": 0.3,
+        "weight": 4.0,
+        "abilities": ["Limber"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ditto/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/ditto/2.png"
+        ],
+        "reason": "Amo que seas un bloque de Tetris",
+        "explanation": "Es que hay algunas posiciones en las que te pones para estar cómoda que el cuerpo humano nunca fue hecho para estar. Te he visto con patas en la silla, cabeza en el piso, cuerpo en el aire mientras lees o haces algo. Eres literalemente una pieza de Tetris, done lo peor de todo, es que te gusta estar así. Ahora, a la espalda de la Ale del futuro, no se que tanto le gustará, pero si llega a eso, yo te regalo un bastón."
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "type": ["Normal"],
+        "height": 0.3,
+        "weight": 6.5,
+        "abilities": ["Run Away", "Adaptability"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/133.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/eevee/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/eevee/2.png"
+        ],
+        "reason": "Amo lo seguro y tranquilo que me haces sentir",
+        "explanation": "Aquí, lógicamente siendo eevee tu pokemón favorito, tenía que poner mi cosa favorita de ti. Por mucho tiempo yo no te contaba nafin de lo que me pasaba, as you know very well y aún ahora rara vez te cuento algo en persona. No entendía muy bien esto, porque ya en ese momento si tenía la confianza para decirte las cosas, but después me di cuenta cuál era la razón. Soy una persona sumamente ocupado, con miles de weas en mi cabeza, preocupaciones y problemas, pero por alguna razón, cada vez que estoy contigo, my brain shuts off (in a good way). Todos los problemas que tenía literal desaparecen cuando estoy contigo, y es algo que aprecio muchísimo, cause for a long time he necesitado un safe space like that, donde puedo solo descansar, so thanks for being that for me :) "
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "type": ["Water"],
+        "height": 1.0,
+        "weight": 29.0,
+        "abilities": ["Water Absorb", "Hydration"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/134.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/vaporeon/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/vaporeon/2.png"
+        ],
+        "reason": "Amo lo simple que eres",
+        "explanation": "Yo siento que soy una persona muy simple, y pues como tu también, todo calza perfecto. ¿Queremos hacer algo? Sentémosnos frente a la tele y veamos basura por horas. ¿Estás triste? Te regalo un chocolate. ¿Estamos complicados para vernos o hacer algo? Tranqui, no hay apuro ni problema. Poder tenerte a ti que me da un respiro gigante de todas las cosas de la U, de volley y mis amigos es lo mejor, y realmente me ayuda a simplificar mi vida."   
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "type": ["Electric"],
+        "height": 0.8,
+        "weight": 24.5,
+        "abilities": ["Volt Absorb", "Quick Feet"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/135.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/jolteon/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/jolteon/2.png"
+        ],
+        "reason": "Amo que me obligues a echarme bloqueador",
+        "explanation": "Realmente soy un flojo para esto, me carga echarme bloqueador. Se que es 100% necesario ahora y blah blah blah, pero no puedo encontrar las ganas de hacerlo. So tenerte a ti, hinchándome, como que me obliga a hacerlo, porque conoces el dicho, happy wife happy life. Además, es bueno saber que si hay alguien que se está preocupando por el bienestar de mi piel y que no quede como langosta al final del día."
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "type": ["Fire"],
+        "height": 0.9,
+        "weight": 25.0,
+        "abilities": ["Flash Fire", "Guts"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/136.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/flareon/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/flareon/2.png"
+        ],
+        "reason": "Amo que seas tan picota",
+        "explanation": "Yo creo que tienes bien claro que algo que a mi me encanta es hacerte rabiar. Entonces que seas picota, me hace múchisimo más fácil la pega. Siempre partes jugando tranquila, pero entre más dura el juego, más emotionally invested estás, y es justo ahí donde me das la increible oportunidad de hacerte rabiar."
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "type": ["Normal"],
+        "height": 0.8,
+        "weight": 36.5,
+        "abilities": ["Trace", "Download"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/137.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/porygon/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/porygon/2.png"
+        ],
+        "reason": "Amo que te gusten los legos",
+        "explanation": "Estai cachando la cantidad de dates que podríamos tener en un futuro dedicadas a simplemente armar legos. Cuando tengamos sueldos de adultos, vamos a poder quedarnos un viernes en la noche, pedir comida y fucking armar legos no más. Es un panorama que para mi es ideal, so poder hacerlo contigo lo hace muchísimo mejor. Yo propongo la estrella de la muerte, el halcón milenario o algún auto de la formula 1, estoy abierto a sugerencias."
+    },
+    {
+        "id": 138,
+        "name": "Omanyte",
+        "type": ["Rock", "Water"],
+        "height": 0.4,
+        "weight": 7.5,
+        "abilities": ["Swift Swim", "Shell Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/138.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/omanyte/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/omanyte/2.png"
+        ],
+        "reason": "Amo cuando me abrazas y haces ese movimiento raro con tus labios",
+        "explanation": "No se muy bien como explicar a lo que me refiero sin decir textual lo que sale en el título. Pero es como si estuvieses rascándote los labios en mi brazo, o limpiándote la boca muy sútilmente. En cualquiera de los dos casos, lo encuentro muy tierno, es uno de los pequeños detalles que haces que me encantan y nse, me hace sentir querido también."
+    },
+    {
+        "id": 139,
+        "name": "Omastar",
+        "type": ["Rock", "Water"],
+        "height": 1.0,
+        "weight": 35.0,
+        "abilities": ["Swift Swim", "Shell Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/139.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/omastar/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/omastar/2.png"
+        ],
+        "reason": "Amo que te moleste tomarme la mano por delante",
+        "explanation": "Encuentro mil veces más cómodo que cuando estamos caminando tomados de la mano, sea yo quien tenga la mano por delante y tú por detrás. Como que así cuadra todo, la otra forma es como rara o se siente como wrong. Que bueno que tú opines lo mismo, cause sino al menos uno de los dos estaría incómodo cada vez que nos tomamos de las manos."
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "type": ["Rock", "Water"],
+        "height": 0.5,
+        "weight": 11.5,
+        "abilities": ["Swift Swim", "Battle Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/140.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kabuto/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kabuto/2.png"
+        ],
+        "reason": "Amo que después de darnos un beso, me mires y sonrías",
+        "explanation": "No tienes ni la menor idea las cosas que me hace sentir ese momento en que me sonríes. Ya sea despidiéndonos o en un momento random, esa sonrisa post beso me hace muy muy muy feliz. Es como god damn que mujer más bonita y tierna, como chucha terminó siendo mi polola."
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "type": ["Rock", "Water"],
+        "height": 1.3,
+        "weight": 40.5,
+        "abilities": ["Swift Swim", "Battle Armor"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/141.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kabutops/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/kabutops/2.png"
+        ],
+        "reason": "Amo que me respondas todas mis preguntas cuando vemos una serie que ya viste",
+        "explanation": "No podría contar la cantidad de veces que me ha tocado ir a tu casa y verme un par de capítulos randoms de alguna serie que te estabas viendo. Yo pensaría que en algún momento, después de hacerte como 20 preguntas me mandarías a callar y que vea la wea en silencio. Pero no, me respondes cada una, hasta a veces pausas para darme el contexto de lo que estamos viendo. Se aprecia mucho la paciencia cause se que puede ser medio chato el bombardeo de preguntas que te llegan, pero al menos así al menos me puedo hacer una idea y hasta una opinión de lo que estoy viendo"
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "type": ["Rock", "Flying"],
+        "height": 1.8,
+        "weight": 59.0,
+        "abilities": ["Pressure", "Unnerve"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/142.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/aerodactyl/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/aerodactyl/2.png"
+        ],
+        "reason": "Amo que eres empática",
+        "explanation": "Una de los tantos valores tuyos que admiro muchísimo es tu empatía. Ya sea con tu compañera de la U, algun amigo, o hasta el trabajador de Tunca, siempre tienes en cuenta que la otra persona es una persona también, valga la rebundancia. Siempre piensas en las consecuencias de tus acciones, en cómo lo que digas o haga puede afectar a la otra persona. Siempre estas atenta a lo que podría estar pasando con otra persona, algo que hoy en día ya casi nadie hace. Es de las tantas cosas que te hacen la increible persona que eres ahora mismo."
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "type": ["Normal"],
+        "height": 2.1,
+        "weight": 460.0,
+        "abilities": ["Immunity", "Thick Fat"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/143.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/snorlax/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/snorlax/2.png"
+        ],
+        "reason": "Amo lo defensiva que te pones con tus amigas",
+        "explanation": "Tú te morirías en una cruz por tus amigas. Es impresionante como eres capaz de pasarte por la punta del pico (o en este caso las tetas? nse) a todo el resto si se meten con tus amigas. Se que esto a veces hasta conmigo llega a generar roces (fran x cury) pero es algo que admiro mucho de ti. Just comes to show la increible amiga que eres."
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "type": ["Ice", "Flying"],
+        "height": 1.7,
+        "weight": 55.4,
+        "abilities": ["Pressure", "Snow Cloak"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/144.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/articuno/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/articuno/2.png"
+        ],
+        "reason": "Amo tus sarcastics remarks",
+        "explanation": "Se que alguna parte de este listado mencione que amo tu sarcasmo, pero tus remarks merecen una sección por si sola. La velocidad de mente que tienes que tener para responder con sarcasmo alguna pelotudez que alguien dice es un don. Me da mucha risa cuando lo haces, y hasta me hace sentir orgulloso que mi polola sea capaz de hacer estos remarks tan astutos. Algún día cuando vivamos juntos, siento que estso remarks van a volar de un lado para el otro, y va a ser una guerra de sarcasmo que no terminará nunca, and im all here for it."
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "type": ["Electric", "Flying"],
+        "height": 1.6,
+        "weight": 52.6,
+        "abilities": ["Pressure", "Static"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/145.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/zapdos/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/zapdos/2.png"
+        ],
+        "reason": "Amo que me envies fotos de las cartas pókemon que obtengas",
+        "explanation": "A mi me costó mucho meterme al juego del celular de cartas pokemon, pero si hay algo que si me impulsó, fuiste tú. I mean, cada día me llegaba una foto y yo pensaba, uuuu cuál le habrá tocado, o uuuu será que le haya tocado finalmente un eevee. Era casi como un pack opening pero separado. Además, así podía ir comparando, aunque me vueles la raja, mi colección con la tuya. Me encanta que lo que tú encuentres una carta valiosa es muy distinto a la mía. Las que me mandas siempre eran todas tiernas y las mías, badass."
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "type": ["Fire", "Flying"],
+        "height": 2.0,
+        "weight": 60.0,
+        "abilities": ["Pressure", "Flame Body"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/146.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/moltres/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/moltres/2.png"
+        ],
+        "reason": "Amo que ta la des de doctora cuando me pasa algo",
+        "explanation": "No se de donde sacas tanto conociemiento para diagnosticarme cada vez que estoy resfriado o algo me pasa. Tengo una lesión fea, te sacas como 5 consejos y cosas que tengo que hacer. Si estoy resfriado, te sacas alguna coción o receta exótica que supuestamente debería servirme. Es como tener una mini doctora que me atiende a toda hora."
+    },
+    {
+        "id": 147,
+        "name": "Dratini",
+        "type": ["Dragon"],
+        "height": 1.8,
+        "weight": 3.3,
+        "abilities": ["Shed Skin", "Marvel Scale"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/147.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dratini/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dratini/2.png"
+        ],
+        "reason": "Amo lo picada a gringa que eres",
+        "explanation": "No se que haría si no fueses media gringa. Tanto de mi humor y las cosas que hago es tan gringo y tan poco chileno, que si no fuese así entenderías 1% de las cosas que hago. Además, es re chistoso como te la das de gringa a veces hablando de trends o de cosas que están pasando en USA. Literal solo te falta el acento gringo y te dan la nacionalidad altiro."
+    },
+    {
+        "id": 148,
+        "name": "Dragonair",
+        "type": ["Dragon"],
+        "height": 4.0,
+        "weight": 16.5,
+        "abilities": ["Shed Skin", "Marvel Scale"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/148.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dragonair/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dragonair/2.png"
+        ],
+        "reason": "Amo que hables spanenglish",
+        "explanation": "Esta wea me la pegaste desde el primer año de pololeo. Onda, yo de verda ahora me considero una persona fluida en este idioma. Además, me has facilitado un montón el poder hablar contigo. No sabes la cantidad de veces que no se como traducir lo de mi cabeza a español o vice versa, entonces saber que te lo puedo mezclar y que me vas a entender a la perfección es un relajo. "
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "type": ["Dragon", "Flying"],
+        "height": 2.2,
+        "weight": 210.0,
+        "abilities": ["Inner Focus", "Multiscale"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/149.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dragonite/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/dragonite/2.png"
+        ],
+        "reason": "Amo tus pijamas",
+        "explanation": "Los encuentor tan choros la verdad. Yo duermo solo en boxers, pero tú tienes todo un estilo cuando viene a pijamas. Es impresionante como te mantienes fachera desde el momento que te levantas de tu cama (a las 2 de la tarde) hasta que te acuestas (10 de la noche)."
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "type": ["Psychic"],
+        "height": 2.0,
+        "weight": 122.0,
+        "abilities": ["Pressure", "Unnerve"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mewtwo/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mewtwo/2.png"
+        ],
+        "reason": "Amo que me sigas regalando pulseras",
+        "explanation": "Alex, porfavor no dejes de hacerlo. Se que no me duran nada pero te juro por mi vida que las cuido y las aprecio muchísimo. Me encanta poder andar con ellas y que cuando me digan ooo y esa pulsera pueda decir que me la regaló mi señora. En verdad es un misterio como después de como 7 pulseras sigas accediendo a darme otra, pero porfavor no pares :) ."
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "type": ["Psychic"],
+        "height": 0.4,
+        "weight": 4.0,
+        "abilities": ["Synchronize"],
+        "sprites": {
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/151.png"
+        },
+        "cards":[
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mew/1.png",
+            "https://raw.githubusercontent.com/ExtrasSM/AlexPK/main/cartas/mew/2.png"
+        ],
+        "reason": "Amo que seas feminista",
+        "explanation": "Encuentro que no hay nada más atractivo que una mujer que sabe lo que vale, y sabe lo que valen el resto de las mujeres. Me da muchísima tranquilidad, que si en un futuro lejano, tuviesemos una hija (again, lejano, please do NOT panic), que su mamá pueda enseñarle a valorarse a si misma y que si fuese un hijo, enseñara a respetarlas. Siento que para mi esto es algo super importante al momento de tener una pareja, so que estés aliñeada con esa parte de mi me hace amarte mucho más."
+    }
+  ]
+}

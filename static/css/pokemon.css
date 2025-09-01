@@ -1,0 +1,330 @@
+.pokemon-container {
+    background: white;
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 400px;
+    margin: 0 auto;
+    content: center ;
+}
+.hr{
+  border: none;
+  border-top: 2px solid black;
+  margin: 20px 0;
+}
+
+.nametype-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.nametype-container h1{
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.container-sprites{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.poke-cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.poke-cards h2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.poke-cards-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+.poke-cards-container img {
+    width: 100px !important;
+    height: 150px !important; 
+    object-fit: fill;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.poke-cards-container img:hover{
+    transform: scale(1.3);
+    z-index: 2;
+    position: flex;
+}
+
+
+.pokeImage{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+}
+
+.pokeImage:hover{
+    transform: scale(1.5);
+    z-index: 2;
+}
+
+.pokeTypes{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    justify-content: center;
+}
+
+
+.pokeTypes img {
+  width: 30px;             /* ancho fijo */
+  height: 30px;            /* alto fijo */
+  border-radius: 50%;       /* hace la imagen circular */
+  object-fit: cover;        /* recorta la imagen sin deformarla */
+  overflow: hidden;         /* asegura que no se salga del borde */
+  border-radius: 2px; /* borde redondeado */
+  border-color: #242a30;
+}
+
+.pokeTypes img:hover{
+    transform: scale(1.2);
+}
+
+
+.container-btn{
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    position: flex;
+    padding: auto;
+    margin: 5px;
+}
+
+.container-btn.hidden{
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.container-btn button {
+  background: #384552;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.container-btn button:hover {
+  background: #242a30;
+  cursor: pointer;
+}
+
+.reason-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.btn-open{
+  background: linear-gradient(to bottom, #f02424 50%, white 50%);
+  border: 4px solid black;
+  border-radius: 50px;
+  color: black;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 12px 24px;
+  cursor: pointer;
+  text-shadow: 1px 1px 0 #fff;
+  box-shadow: 0 4px 0 #222;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.btn-open:before{
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 16px;
+  background: white;
+  border: 4px solid black;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.btn-open:hover{
+  transform: scale(1.05);
+  box-shadow: 0 6px 0 #111;
+}
+
+.btn-open:active{
+  transform: scale(0.97);
+  box-shadow: 0 2px 0 #000;
+}
+.btn-pokedex-container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-pokedex{
+  background: linear-gradient(to bottom, #f02424 50%, white 50%);
+  border: 4px solid black;
+  border-radius: 50px;
+  color: black;
+  font-weight: bold;
+  font-size: 1.2rem;
+  padding: 12px 24px;
+  cursor: pointer;
+  text-shadow: 1px 1px 0 #fff;
+  box-shadow: 0 4px 0 #222;
+  transition: all 0.2s ease;
+  overflow: hidden;
+  margin: 5px;
+  position: relative;
+}
+
+.btn-pokedex:before{
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 16px;
+  background: white;
+  border: 4px solid black;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+
+.btn-pokedex:hover{
+  transform: scale(1.05);
+  box-shadow: 0 6px 0 #111;
+}
+
+.btn-pokedex:active{
+  transform: scale(0.97);
+  box-shadow: 0 2px 0 #000;
+}
+
+.pokedex-popup {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 600px;
+  max-width: 90%;
+  max-height: 150%;
+  background: #f4f4f4;
+  border: 5px solid #cc0000;
+  border-radius: 15px;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  box-shadow: 0 0 20px black;
+}
+
+.pokedex-popup.hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Estilo de libro abierto */
+.pokedex-content {
+  display: flex;
+  height: 100%;
+}
+
+/* Páginas del libro */
+.left-page, .right-page {
+  flex: 1;
+  padding: 20px;
+  border-right: 2px solid #cc0000;
+}
+
+.right-page {
+  border-right: none;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+
+.right-page img {
+  width: 100%;
+  height: fit-content;
+  object-fit: cover;
+}
+
+.reason{
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.explanation{
+    text-align: justify;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hr-bold {
+  border: none;
+  height: 4px;
+  background-color: black;
+  margin: 10px 0;
+}
+
+.hr-light {
+  border: none;
+  height: 1px;
+  background-color: gray;
+  margin: 10px 0;
+}
+
+.reason-div{
+  width: 100%;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 15px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(to bottom right, #d32f2f, #c2185b); /* Rojo estilo Pokédex */
+  border: 3px solid #7f0000;
+}
+
+.explanation-div{
+  width: 100%;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 15px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(to bottom right, #7c8085, #505558); /* Azul estilo interfaz */
+  border: 3px solid #242628;
+
+}

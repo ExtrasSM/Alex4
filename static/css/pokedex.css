@@ -1,0 +1,74 @@
+.h1 {
+  text-align: center;
+}
+.container-grid {
+    max-height: 500px;
+    overflow-y: auto;
+    border: 2px solid #ccc;
+    background: white;
+    padding: 10px;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.container-alex {
+    margin-top: 70px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.alex-container img:hover{
+  transform: scale(1.5);
+}
+
+.pokemon-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas fijas */
+    gap: 10px;
+}
+.pokemon-card {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  background: #fafafa;
+  border-radius: 8px;
+  box-shadow: 1px 1px 4px rgba(0,0,0,0.1);
+}
+.pokemon-card:hover {
+  background: #f0f0f0;
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+}
+.pokemon-name {
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.alex-pokedex {
+  background: #cce7f0;
+  border: 3px solid #333;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center ;
+}
+.alex-pokedex:hover {
+  background: #b3d9e6;
+  cursor: pointer;
+}
+

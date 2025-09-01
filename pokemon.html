@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alex 151</title>
+    <link rel="stylesheet" href="static/css/index.css" />
+  <link rel="stylesheet" href="static/css/pokemon.css" />
+</head>
+<body>
+    <div class="top-bar">
+      <img src="static/images/pokemon_logo.png" alt="Pokémon Logo" class="top" id="pokemon-logo">
+    </div>
+  <div class="pokemon-container" id="pokemonContainer">
+    <div id="NameType" class="nametype-container">
+      <div id="pokeTypes" class="pokeTypes"></div>
+      <h1 id="pokeName">Cargando...</h1>
+    </div>
+    <hr>
+    <div class="container-sprites">
+        <img id="pokeImageFront" class="pokeImage" src="" alt="Pokemon">
+        <img id="pokeImageBack" class="pokeImage" src="" alt="Pokemon">
+    </div>
+    <div id="PokeCards" class="poke-cards">
+        <h2>Cartas Cooles</h2>
+        <div id="PokeCardsCont" class="poke-cards-container">
+          <img id="PokeCard1" class="poke-card" src="" alt="Pokemon Card 1">
+          <img id="PokeCard2" class="poke-card" src="" alt="Pokemon Card 2">
+        </div>
+    </div>
+    <div class="poke-fact"></div>
+    <div class="reason-container">
+      <button class="btn-open" id="openReason"></button>
+    </div>
+  </div>
+  <div id="pokedexPopup" class="pokedex-popup hidden">
+    <div class="pokedex-content">
+      <div class="left-page">
+        <h2 id="ReasonNumber"></h2>
+        <div class="reason-div">
+          <p class="reason" id="reason"></p>
+        </div>
+        <hr class="hr-bold">
+        <h3>Explanation</h3>
+        <div class="explanation-div">
+          <p class="explanation" id="explanation"></p>
+        </div>
+      </div>
+      <div class="right-page">
+        <img id="pokedex-sprite" src="" alt="PokedexEntry">
+      </div>
+    </div>
+    <div class="btn-pokedex-container">
+      <button class="btn-pokedex" id="closeReason"></button>
+    </div>
+  </div>
+  <div class="container-btn" id="continuardiv">
+    <button class="button" id="anterior">Anterior</button>
+    <button class="button" id="volver" onclick="location.href='pokedex.html'">Volver al Pokédex</button>
+    <button class="button" id="siguiente">Siguiente</button>
+  </div>
+</body>
+<script src="static/js/pokemon.js"></script>
+</html>

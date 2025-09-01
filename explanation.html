@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Alex 151</title>
+  <link rel="stylesheet" href="static/css/index.css" />
+    <link rel="stylesheet" href="static/css/explanation.css" />
+</head>
+<body>
+    <div class="top-bar">
+      <img src="static/images/pokemon_logo.png" alt="Pokémon Logo" class="top" id="pokemon-logo">
+    </div>
+    <div class="pikachu-container" id="pikachu-container" onclick="showExplanation4()">
+        <img src="static/images/pikachu_question.png" alt="PikachuQuestion" class="floating-img-exp" id="pikachuquestion">
+    </div>
+    <div class="under-top">
+    <header>
+      <h1>Primero que todo, que estás viendo?</h1>
+    </header>
+    <p>Presiona cada una de las cartas para entender mejor qué es todo esto (de izq a der
+        que si no cagai el lore)
+    </p>
+    <footer>
+      <p>© 2025 Pokémon & Sanma Associations</p>
+    </footer>
+  </div>
+  <div class="card-container">
+    <div class="poke-card" onclick="showExplanation1()">
+        <img src="static/images/pokemon_card.png" alt="PokeCard1" class="pokemon-card" id="pokecard1">  
+    </div>
+    <div class="poke-card" onclick="showExplanation2()">
+        <img src="static/images/pokemon_card.png" alt="PokeCard2" class="pokemon-card" id="pokecard2">
+    </div> 
+     <div class="poke-card" onclick="showExplanation3()">
+        <img src="static/images/pokemon_card.png" alt="PokeCard3" class="pokemon-card" id="pokecard3">
+    </div> 
+  </div>
+  <div class="container-btn" id="continuar-div">
+    <button class="btn-hidden" id="continuar">Lets fucking go</button>
+    </div>
+  <div class="popup-overlay" id="pokecard1-explanation">
+    <div class="popup-content">
+        <span class="close-btn" onclick="closeExplanation1()">&times;</span>
+        <h2>¡Sorpresa pa la Wife! 🎉</h2>
+        <img src="static/images/eevee_card1.png" alt="EeveeCard1" class="pokemon-card-small" id="eeveecard1">
+        <p>Siendo este nuestro aniversario de cuatro años, tenía hartas ganas de hacerte algo
+            un poco distinto. Sabiendo que cada día estás más y más metida con los Pokemones,
+            decidí armarte esta pequeña página web llena de muchos fakin pokemon. Adentro, encontrarás
+            secciones con cada uno de los 151 pokemones de la primera generación (que como aún eres fan
+            nueva, lo tuve que dejar hasta aquí xd), donde cada una tendrá una sopresa para ti. No te puedo decir la 
+            sorpresa aún, así que tienes que seguir apretando las cartas. Espero que te guste, y si no, bueno, nada que hacerle 😅</p>
+        </p>
+    </div>
+  </div>
+    <div class="popup-overlay" id="pokecard2-explanation">
+    <div class="popup-content">
+        <span class="close-btn" onclick="closeExplanation2()">&times;</span>
+        <h2>¿Qué tiene cada uno?</h2>
+        <img src="static/images/mimikyu_card1.png" alt="mimikyu_card1" class="pokemon-card-small" id="mimikyucard1">
+        <p> Ya, aquí es la parte donde me da mucha verguenza pero just gotta pull through.
+            No se si te acuerdas, pero creo que en como primer año de U, una vez tuviste un día de mierda y te sentías
+            realmente como el pico. Yo, siendo tal vez un pelotudo o un genio, te mande un listado de 50 cosas que amaba
+            de ti. Y pues como ha pasado tanto tiempo, quería hacerte una segunda parte, new and improved. Entonces, para cada
+            uno de los 151 pokemones de la primera generación, hay una pequeña sección donde te cuento algo que amo de ti y el por qué (yes i know
+            very cringy but te la vas a tener que bancar). Abre la última carta para un último mensajito antes de ir al pokedex (asumo que
+            sabes lo que es un pokedex, si no, apreta el Pikachu de arriba a la izquierda).</p>
+        </p>
+    </div>
+  </div>
+  <div class="popup-overlay" id="pokecard3-explanation">
+    <div class="popup-content">
+        <span class="close-btn" onclick="closeExplanation3()">&times;</span>
+        <h2>¿Qué tiene cada uno?</h2>
+        <img src="static/images/flareon_card1.jpg" alt="flareon_card1" class="pokemon-card-small" id="flareoncard1">
+        <p> Now just a final message antes de que veas los pokemones. Solo quiero que sepas que te amo, like a whole lot.
+            Nada de lo que está en este regalo es mentira aunque ya veo tu cara de "yeah right mentiroso este wn". Pero en serio, cada una de las cosas que te digo es 100%
+            verdad y cada una de ellas es solo una razón más de porque te quiero y quiero seguir estando contigo. Eres la mejor polola que podría haber pedido y no me arrepiento de nada de lo que hemos
+            hecho y pasado juntos durante estos cuatro años. Ojala al menos una de las cosas que estén acá te hagan sonreir, cause you can bet your ass que a mi sí :)
+    </div>
+  </div>
+  <div class="popup-overlay" id="pikachu-explanation">
+    <div class="popup-content">
+        <span class="close-btn" onclick="closeExplanation4()">&times;</span>
+        <h2>Pokedex</h2>
+        <img src="static/images/pokedex.png" alt="pokedex" class="pokemon-card-small" id="pokedex">
+        <p> Un pokedex es básicamente una herramineto que sirve para ir registrando los pokemones con los
+            que uno se encuentra. Aquí se registra la especie, tipo, nombre, una descripción, etc. Es muy útil para saber
+            cuantos pokemones ya se han capturado y cuantos faltan por encontrar.
+        </p>
+    </div>
+  </div>
+</body>
+<script src="static/js/explanation.js"></script>
+</html>
