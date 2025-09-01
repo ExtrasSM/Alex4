@@ -27,7 +27,7 @@ async function loadPokemon() {
     types = data.type;
     for (let i = 0; i < types.length; i++) {
       const typeElement = document.createElement('img');
-      typeElement.src = `static/images/types/${types[i]}.png`;
+      typeElement.src = `static/images/types/${types[i].toLowerCase()}.png`;
       typeElement.alt = types[i];
       document.getElementById('pokeTypes').appendChild(typeElement);
     }
