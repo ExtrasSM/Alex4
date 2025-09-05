@@ -232,14 +232,15 @@
   top: 50%;
   left: 50%;
   width: 600px;
-  max-width: 90%;
-  max-height: 150%;
+  max-width: 95%;
+  max-height: 95%;
   background: #f4f4f4;
   border: 5px solid #cc0000;
   border-radius: 15px;
   transform: translate(-50%, -50%);
   z-index: 1000;
   box-shadow: 0 0 20px black;
+  overflow: auto; /* por si el contenido se pasa */
 }
 
 .pokedex-popup.hidden {
@@ -252,6 +253,7 @@
 .pokedex-content {
   display: flex;
   height: 100%;
+  width: 100%;
 }
 
 /* Páginas del libro */
@@ -268,14 +270,13 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
 }
-
 
 .right-page img {
   width: 100%;
-  height: fit-content;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
+  max-height: 400px;
 }
 
 .reason{
@@ -326,5 +327,57 @@
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   background: linear-gradient(to bottom right, #7c8085, #505558); /* Azul estilo interfaz */
   border: 3px solid #242628;
+}
 
+/* Estilo de libro abierto */
+.pokedex-content {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  flex-wrap: nowrap; /* siempre en fila */
+}
+
+.left-page, .right-page {
+  flex: 1;
+  padding: 15px;
+  border-right: 2px solid #cc0000;
+  min-width: 0; /* evita que se deforme el flex */
+}
+
+.right-page {
+  border-right: none;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.right-page img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  max-height: 300px;
+}
+
+/* 📱 Responsive: mantener formato libro pero más compacto */
+@media (max-width: 768px) {
+  .pokedex-popup {
+    width: 95%;   /* usar casi todo el ancho */
+    height: auto;
+    max-height: 90%;
+  }
+
+  .pokedex-content {
+    flex-direction: row; /* seguir como libro */
+  }
+
+  .left-page, .right-page {
+    padding: 10px;
+  }
+
+  .right-page img {
+    max-height: 200px;
+  }
 }
